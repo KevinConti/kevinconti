@@ -1,17 +1,17 @@
 ---
-title: "Sour Grapes - Extended"
-description: ""
-date: "2019-06-17"
-categories: ["Thoughts"]
+title: Sour Grapes - Extended
+description: ''
+date: 2019-06-17
+categories:
+- Thoughts
 published: true
----
 
+---
 # The Fox & the Grapes
 
 ![](./fox-grapes.jpg)
 
-
-A Fox one day spied a beautiful bunch of ripe grapes hanging from a vine trained along the branches of a tree. The grapes seemed ready to burst with juice, and the Fox's mouth watered as he gazed longingly at them.
+A Fox one day spied a beautiful bunch of ripe grapes hanging from a vine trained along the branches of a tree. The grapes seemed ready to burst with juice, and the Fox's mouth watered as he gazed longingly at them. 
 
 The bunch hung from a high branch, and the Fox had to jump for it. The first time he jumped he missed it by a long way. So he walked off a short distance and took a running leap at it, only to fall short once more. Again and again he tried, but in vain.
 
@@ -37,7 +37,7 @@ The first Fox turned around in surprise, hearing the grapes being snatched off t
 
 The second Fox knew it was true, for she too had failed on her first try. But she had grown from trying, where her friend had shrunk.
 
----
+***
 
 The next day, the second Fox went back to the original tree, and she ate those grapes as well.
 
