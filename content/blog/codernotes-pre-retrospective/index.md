@@ -6,7 +6,9 @@ categories: []
 published: true
 ---
 
-## ![](/forestry/problem.jpg)CoderNotes has finally launched.
+![](/forestry/codernotes-pre-retrospective-cover.png)
+
+## CoderNotes has finally launched.
 
 I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
 

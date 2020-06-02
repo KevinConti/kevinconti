@@ -14,8 +14,6 @@ _The two real mindsets_
 
 I've recently developed a new mentality regarding realism: I don't think it exists. Here's why.
 
-![](/forestry/image.png) [source](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjfrOvPvN3iAhUB7awKHWiWAeEQjxx6BAgBEAI&url=https%3A%2F%2Fwww.adgebra.in%2Fdigital-marketing%2Fsecret-ingredient-for-digital-marketing-strategy-realism-or-optimism%2F&psig=AOvVaw0CQZxLPiXyH6HVeUis7G-s&ust=1560206500474242)
-
 ## What does it mean to be a realist?
 
 If I ask Google what a realist is, I get the following answer:
