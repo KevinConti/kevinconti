@@ -2,8 +2,8 @@
 title: Sour Grapes - Extended
 description: ""
 date: 2019-06-17
-categories:
-    - Thoughts
+tags:
+    - Story
 published: true
 ---
 
