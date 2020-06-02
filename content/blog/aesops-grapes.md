@@ -8,8 +8,7 @@ published: true
 
 # The Fox & the Grapes
 
-![](./fox-grapes.jpg)
-
+![](/forestry/fox-grapes.jpg)
 
 A Fox one day spied a beautiful bunch of ripe grapes hanging from a vine trained along the branches of a tree. The grapes seemed ready to burst with juice, and the Fox's mouth watered as he gazed longingly at them.
 
@@ -23,7 +22,7 @@ And off he walked very, very scornfully.
 
 ...
 
-![](./two.jpg)
+![](/forestry/two.jpg)
 
 Then a second Fox walked by. She, too, noticed the ripe grapes. Just like the first Fox, the second Fox tried and tried. However, this Fox did not stop and grow scornfull. Instead, she continued to try.
 
