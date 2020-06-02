@@ -1,8 +1,9 @@
 ---
-title: "Sour Grapes - Extended"
+title: Sour Grapes - Extended
 description: ""
-date: "2019-06-17"
-categories: ["Thoughts"]
+date: 2019-06-17
+categories:
+    - Thoughts
 published: true
 ---
 
