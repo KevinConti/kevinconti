@@ -1,0 +1,47 @@
+baseURL = "https://kevinconti.com/"
+languageCode = "en-us"
+title = "Kevin Conti's Blog"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Kevin Conti - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+disqusShortname = "kevinconti.disqus.com"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo/favicon-32x32.png"
+  description ="Entrepreneurship, development, and stoicism"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Kevin Conti" 
+  thumbnail = "/images/author.jpg"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author.jpg"
+  title = "Kevin Conti"
+  subtitle = "Entrepreneur / Software Developer"
+  mdtext = '''
+Some of my writings as I work out my thoughts. This blog is poorly formatted, and posts are often half-finished. I'm not writing for you as much as for me. That being said, I hope you find something that either challenges or inspires you.
+'''
+  alertbar = false
+
+[params.social]
+  github = "KevinConti"
+  linkedin = "kevin-conti-b717589a"
+  twitter = "kev_conti"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+
