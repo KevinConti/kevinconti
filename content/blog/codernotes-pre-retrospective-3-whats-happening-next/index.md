@@ -1,7 +1,7 @@
 ---
 title: CoderNotes Part 3 - What's Happening Next?
 description:
-date: 2020-06-04T04:00:00.000+00:00
+date: 2020-06-03T04:00:00.000+00:00
 categories: []
 published: true
 ---
