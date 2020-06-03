@@ -17,3 +17,5 @@ fields:
 - type: boolean
   name: published
   label: published
+pages:
+- content/blog/codernotes-pre-retrospective-1-what-went-well/codernotes-pre-retrospective-1-what-went-well.md
