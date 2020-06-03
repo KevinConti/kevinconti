@@ -3,9 +3,9 @@ title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
 date: 2020-05-22T04:00:00.000+00:00
 categories: []
-published: false
-
+published: true
 ---
+
 ## CoderNotes has finally launched.
 
 I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
@@ -38,7 +38,6 @@ Part 3: What's Happening Next
 >
 > Start your first three business as quickly as possible.
 >
->   
 > \- @r00k (Ben Orenstein) - 05/14/20
 
 Click here to start at part 1.
