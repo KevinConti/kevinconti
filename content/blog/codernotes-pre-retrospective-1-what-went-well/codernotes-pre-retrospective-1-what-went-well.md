@@ -1,11 +1,12 @@
 ---
-date = ""
-description = ""
-draft = true
-published = true
-tags = []
-title = "CoderNotes Pre-Retrospective 1 - What went well"
+title: "CoderNotes Pre-Retrospective 1 - What went well"
+description:
+date: 2020-06-04T04:00:00.000+00:00
+categories: []
+published: true
 ---
+
+## title = "CoderNotes Pre-Retrospective 1 - What went well"
 
 ## What went well:
 
