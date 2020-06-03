@@ -7,12 +7,13 @@ copyright = "Kevin Conti - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
 disqusShortname = "kevinconti.disqus.com"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+#googleAnalytics = "UA-113484152-5"
 
 [params]
   logo = "/images/logo/favicon-32x32.png"
   description ="Entrepreneurship, development, and stoicism"
-  #mailchimp = "you can provide a mailchimp-link here"
+  mailchimp = "https://codernotes.us4.list-manage.com/subscribe/post?u=ff043dbeaf6f629efd73e510c&amp;id=ebe662c87d&Signup=PersonalBlog"
+  mailprotect = "b_ff043dbeaf6f629efd73e510c_ebe662c87d"
 
 [params.author]
   name = "Kevin Conti" 
@@ -26,7 +27,7 @@ disqusShortname = "kevinconti.disqus.com"
   mdtext = '''
 Some of my writings as I work out my thoughts. This blog is poorly formatted, and posts are often half-finished. I'm not writing for you as much as for me. That being said, I hope you find something that either challenges or inspires you.
 '''
-  alertbar = false
+  alertbar = true
 
 [params.social]
   github = "KevinConti"
