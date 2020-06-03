@@ -1,13 +1,11 @@
 ---
 title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
-date: 2020-05-22T00:00:00-04:00
+date: 2020-05-22T04:00:00.000+00:00
 categories: []
-published: true
+published: false
+
 ---
-
-![](/forestry/codernotes-pre-retrospective-cover.png)
-
 ## CoderNotes has finally launched.
 
 I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
@@ -26,32 +24,24 @@ So, CoderNotes won't be a home-run, but it isn't a strike-out.
 
 I'm writing this article to organize my thoughts around what went well and what went wrong over the past five months. I also want to organize my takeaways from CoderNotes, and come to some conclusions around what the long-term plan for CoderNotes will be, what the lessons learned are, and what the next project I'm tackling is, if any for now.
 
+This post is so big, that I've broken it down into three parts: You can find the links below
+
+Part 1: What Went Well
+
+Part 2: What Went Wrong
+
+Part 3: What's Happening Next
+
 > Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
 >
 > Tuple was not my first at-bat. I created a half-dozen less successful things first.
 >
-> Start your first three business as quickly as possible.  
+> Start your first three business as quickly as possible.
+>
+>   
 > \- @r00k (Ben Orenstein) - 05/14/20
 
-## What went well:
-
-### 1. The initial pivot
-
-![](/forestry/the-problem.jpg)
-
-I initially made CoderNotes for a different problem than the general one it ended up solving. At first, CoderNotes was a solution for junior developers taking coding courses. It was designed to be a note-taking system that improved retention. It would have features like:
-
--   Spaced repetition
--   Public and private flashcards
--   Comments on flashcards
-
-When I reached out to developers to share the idea (my first mistake, as we'll see later), I found that while only some junior developers related to that pain, there was a specific value prop that everyone could get behind:
-
-!["You know you've solved the problem before, but can't remember how](/forestry/problem.png "The pivot's value prop")
-
-When I interviewed people about this pain, I got a lot of affirmative responses. I took this as validation and ran with it, immediately lowering my head into the ground to start working.
-
-Eventually, I created CoderNotes.
+Click here to start at part 1.
 
 ## What didn't go well:
 
