@@ -4,8 +4,7 @@ description = ""
 draft = true
 published = true
 tags = []
-title = "CoderNotes Pre-Retrospective 1: What went well"
-
+title = "CoderNotes Pre-Retrospective 1 - What went well"
 ---
 
 ## What went well:
