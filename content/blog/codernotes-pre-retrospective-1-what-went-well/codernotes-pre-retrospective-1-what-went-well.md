@@ -7,19 +7,23 @@ published: false
 tags: []
 
 ---
-## What went well:
+The experience of making CoderNotes.io felt a lot like playing a sport after reading a book on it. You quickly realize that even though you know the theory, putting it in practice is a whole other beast.
+
+That said, there are three things I feel I did correctly that I'll be sure to do again in the future. In part 2, I'll write about all the things I feel I did wrong (far more than three!), and how I'm tackling them next time.
+
+## Things that worked... I think.
 
 ### 1. The initial pivot
 
-![](/forestry/the-problem.jpg)
+![Image that reads "Learning from an online course is tricky"](/forestry/the-problem.jpg "My initial landing page")
 
-I initially made CoderNotes for a different problem than the general one it ended up solving. At first, CoderNotes was a solution for junior developers taking coding courses. It was designed to be a note-taking system that improved retention. It would have features like:
+I initially made CoderNotes for a different problem. At first, it was a solution for junior developers taking coding courses. It was designed to be a note-taking system that improved retention. I imagined it to have features like:
 
 * Spaced repetition
 * Public and private flashcards
-* Comments on flashcards
+* Ability to share "decks" (sets of flashcards)
 
-When I reached out to developers to share the idea (my first mistake, as we'll see later), I found that while only some junior developers related to that pain, there was a specific value prop that everyone could get behind:
+When I reached out to developers to share the idea, I found that while only some junior developers related to that pain, there was a specific value prop that everyone could get behind:
 
 !["You know you've solved the problem before, but can't remember how](/forestry/problem.png "The pivot's value prop")
 
