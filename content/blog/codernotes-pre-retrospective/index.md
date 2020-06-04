@@ -4,8 +4,8 @@ description: A quick look back from a point of uncertainty
 date: 2020-05-22T04:00:00.000+00:00
 categories: []
 published: true
----
 
+---
 ## CoderNotes has finally launched.
 
 I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
@@ -28,9 +28,9 @@ This post is so big, that I've broken it down into three parts: You can find the
 
 Part 1: What Went Well
 
-Part 2: What Went Wrong
+[Part 2: What Went Wrong](https://www.kevinconti.com/blog/codernotes-pre-retrospective-2-what-went-wrong/)
 
-Part 3: What's Happening Next
+[Part 3: What's Happening Next]()
 
 > Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
 >
