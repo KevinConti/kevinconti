@@ -26,11 +26,11 @@ I'm writing this article to organize my thoughts around what went well and what 
 
 This post is so big, that I've broken it down into three parts: You can find the links below
 
-Part 1: What Went Well
+[Part 1: What Went Well](https://www.kevinconti.com/blog/codernotes-pre-retrospective-1-what-went-well/codernotes-pre-retrospective-1-what-went-well/) (coming soon!)
 
-[Part 2: What Went Wrong](https://www.kevinconti.com/blog/codernotes-pre-retrospective-2-what-went-wrong/)
+[Part 2: What Went Wrong](https://www.kevinconti.com/blog/codernotes-pre-retrospective-2-what-went-wrong/) (coming soon!)
 
-[Part 3: What's Happening Next]()
+[Part 3: What's Happening Next]() (coming soon!)
 
 > Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
 >
