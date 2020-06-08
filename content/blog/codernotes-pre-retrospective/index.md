@@ -44,7 +44,7 @@ This post is so big, that I've broken it down into three parts: You can find the
 
 [Part 3: What's Happening Next]() (coming soon!)
 
-> Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
+> Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscription info product business, and two tiny SaaSs.
 >
 > Tuple was not my first at-bat. I created a half-dozen less successful things first.
 >
