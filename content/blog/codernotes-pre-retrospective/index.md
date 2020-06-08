@@ -12,7 +12,9 @@ I wrote what you see below around the first of June. On the seventh, ProductHunt
 
 ![](/forestry/producthunt.png)
 
-It's quite ironic, and super lucky. It's given me a bit of opportunity to connect to more customers than I thought I would be able to, and given me some hope to explore if it's possible to find product/solution fit for CoderNotes. I'm leaving what I wrote below untouched, because I think it's important to show the journey as raw as possible. There are highs and lows. I wrote this in a bit of a tentative low, and right now I'm writing in a bit of a tentative high. There's so much uncertainty at this point in CoderNotes.io's life, and it makes it hard to write clearly. 
+It's quite ironic, and super lucky. It's given me a bit of opportunity to connect to more customers than I thought I would be able to, and given me some hope to explore if it's possible to find product/solution fit for CoderNotes. 
+
+I'm leaving what I wrote below untouched, because I think it's important to show the journey as raw as possible. There are highs and lows. I wrote this in a bit of a tentative low, and right now I'm writing in a bit of a tentative high. There's so much uncertainty at this point in CoderNotes.io's life, and it makes it hard to write clearly. 
 
 Anyway, back to the program.
 
