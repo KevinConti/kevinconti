@@ -6,6 +6,14 @@ categories: []
 published: true
 
 ---
+## Edit: Fate is a funny thing
+
+I wrote what you see below around the first of June. On the seventh, ProductHunt relaunched my product, [bumping it up to number one](https://www.indiehackers.com/product/codernotes/1-product-of-the-day-on-producthunt--M9DjlN9JekWM8g_bZF-) before settling into the #2 product of the day. 
+
+It's quite ironic, and super lucky. It's given me a bit of opportunity to connect to more customers than I thought I would be able to, and given me some hope to explore if it's possible to find product/solution fit for CoderNotes. I'm leaving what I wrote below untouched, because I think it's important to show the journey as raw as possible. There are highs and lows. I wrote this in a bit of a tentative low, and right now I'm writing in a bit of a tentative high. There's so much uncertainty at this point in CoderNotes.io's life, and it makes it hard to write clearly. 
+
+Anyway, back to the program.
+
 ## CoderNotes has finally launched.
 
 I'm happy that it's done. This was my first product, my stairstep product in the SaaS category. CoderNotes is a really high-quality product (in my not-so-humble opinion), and I'm extremely proud of it.
