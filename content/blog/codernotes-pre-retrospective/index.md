@@ -3,7 +3,7 @@ title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
 date: 2020-05-22T04:00:00.000+00:00
 categories: []
-published: true
+published: false
 
 ---
 ## Edit: Fate is a funny thing
