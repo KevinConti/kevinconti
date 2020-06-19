@@ -17,7 +17,11 @@ The book Fooled by Randomness asserts this point much better than I am going to,
 
 Imagine I were to give you the piece of advice, "Stop eating vegetables, they give you cancer. I can show you 1,000 people who ate vegetables and got cancer, and 1,000 people who only ate meat and didn't get cancer." Would you take my advice?
 
-Hopefully not. You know that, in the world, there are so many millions of people. 1,000 is a large number, but it is still too small to be of statistical significance. Even if it was, what's to say these two things aren't just correlated? There are hundreds of reasons why these could be true:
+Hopefully not. You know that, in the world, there are many millions of people. 1,000 is a large number, but it is still too small to be of statistical significance. 
+
+To avoid survivorship bias, we also need to look at the people who ate meat and did get cancer, as well as the people who ate veggies and didn't. Once you did that, you'd probably conclude that I'm out of my mind and never talk to me again.
+
+Even if there was statistical significance, what's to say these two things aren't just correlated? There are hundreds of reasons why these could be true:
 
 * People who eat only meat are unique individuals, and a health-focused, thus making cancer less-likely
 * People who only eat meat tend to live in certain areas that have fewer cases of cancer
@@ -25,11 +29,15 @@ Hopefully not. You know that, in the world, there are so many millions of people
 
 And so on and so fourth.
 
-So, in this example we understand that the number of people who show a trait (1,000 cancer-free meat eaters) is not important unless we know the total sample size (billions of people in the world). Also, we know that just because two things are correlated, it takes FAR more effort to prove any sort of causal link.
+There's a similar joke along the same vein. Throughout history, as the number of pirates has gone down, global warming has increased. The conclusion: Pirates prevent global warming!
 
 ![](/forestry/pirates.jpg)
 
-Now, let's apply this to business.
+Obviously, this isn't true. But think of how many other examples besides pirates we could find. It's infinitely more difficult to confirm a causal hypothesis than to reject one.
+
+For example, it only takes one black swan to reject the hypothesis that "All swans are white". But even after seeing 1,000,000,000 white swans, we still can't confirm that same hypothesis.
+
+#### Now, let's apply this to business.
 
 If there are 1,000 biographies on ultra-successful startup founders, and they all say that hard work, skill, and luck are what they used to create their unicorn, what should we think?
 
