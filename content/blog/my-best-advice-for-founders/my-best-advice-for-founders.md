@@ -7,7 +7,7 @@ tags = []
 title = "My Best Advice for Founders"
 
 +++
-I've been reading Fooled by Randomness recently, and it's convinced me that it's better to talk in terms of falsifiable hypotheses, as opposed to unverifiable truisms. As such, I want to dedicate a page to only advice on what NOT to do. 
+I've been reading Fooled by Randomness recently, and it's convinced me that it's better to talk in terms of falsifiable hypotheses, as opposed to unverifiable truisms. As such, I want to dedicate a page to only advice on what NOT to do.
 
 Let me spend a paragraph convincing you:
 
@@ -23,7 +23,7 @@ Hopefully not. You know that, in the world, there are so many millions of people
 * People who only eat meat tend to live in certain areas that have fewer cases of cancer
 * People who eat veggies eat more carbs, and an overload of sugar is the problem, not veggies
 
-And so on and so fourth. 
+And so on and so fourth.
 
 So, in this example we understand that the number of people who show a trait (1,000 cancer-free meat eaters) is not important unless we know the total sample size (billions of people in the world). Also, we know that just because two things are correlated, it takes FAR more effort to prove any sort of causal link.
 
@@ -33,8 +33,24 @@ Now, let's apply this to business.
 
 If there are 1,000 biographies on ultra-successful startup founders, and they all say that hard work, skill, and luck are what they used to create their unicorn, what should we think?
 
-Like above, we need to first investigate the true sample size. How many people have tried to start companies with hard work, skill, and luck? 100,000? 1,000,000? Way, way more? 
+Like above, we need to first investigate the true sample size. How many people have tried to start companies with hard work, skill, and luck? 100,000? 1,000,000? Way, way more?
 
 If we look and learn from all of the failed restaurants, gyms, factories, etc, we'll find plenty of failures who had hard work, skill, and luck who still failed.
 
-These are mistakes I have made that I am reasonably certain were missteps, which you can easily apply to your own founder journey. 
+So what does this mean? It means that hard work, skill, and luck are not sufficient to start a successful company. It means that we have fallen for surviorship bias.
+
+### In this article, we'll avoid survivorship bias.
+
+Instead of offering advice on what you should do, I'm going to give you advice on what failed for me. These are mistakes I have made that I am reasonably certain were missteps, which you can easily apply to your own founder journey.
+
+Since this advice captures what NOT to do, we free ourselves from the above problems. Instead we're faced with a new one: Advice on what not to do doesn't feel as satisfying.
+
+In response to that, I'll remind you that advice on what TO do is less useful, less actionable, and less reliable, even though it feels better. And the founder's journey is about doing what leads to results instead of good feelings. 
+
+You in?
+
+Cool.
+
+## Advice #1: Assuming email lists will convert
+
+I've desperately wanted to find a formula for calculating 
