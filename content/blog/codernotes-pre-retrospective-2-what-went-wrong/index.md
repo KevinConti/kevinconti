@@ -1,11 +1,11 @@
 ---
 title: CoderNotes Pre-Retrospective Part 2 - What Went Wrong
-description:
-date: 2020-06-03T00:00:00-04:00
+description: 
+date: 2020-06-05T00:00:00-04:00
 tags: []
-published: true
----
+published: false
 
+---
 ## What didn't go well:
 
 ### No good short-term channels:

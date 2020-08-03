@@ -1,11 +1,11 @@
 ---
 title: CoderNotes Part 3 - What's Happening Next?
-description:
-date: 2020-06-03T04:00:00.000+00:00
+description: 
+date: 2020-06-06T00:00:00-04:00
 categories: []
-published: true
----
+published: false
 
+---
 ## What I'm doing next:
 
 Part of me really wants to write. I don't know if it's just temporary, a decompression, from the constant product work. But I'm torn on this subject.

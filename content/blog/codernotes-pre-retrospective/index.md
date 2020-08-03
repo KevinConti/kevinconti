@@ -3,8 +3,20 @@ title: CoderNotes Pre-Retrospective
 description: A quick look back from a point of uncertainty
 date: 2020-05-22T04:00:00.000+00:00
 categories: []
-published: true
+published: false
+
 ---
+## Edit: Fate is a funny thing
+
+I wrote what you see below around the first of June. On the seventh, ProductHunt relaunched my product, [bumping it up to number one](https://www.indiehackers.com/product/codernotes/1-product-of-the-day-on-producthunt--M9DjlN9JekWM8g_bZF-) before settling into the [#2 product of the day.](https://www.producthunt.com/posts/codernotes) 
+
+![](/forestry/producthunt.png)
+
+It's quite ironic, and super lucky. It's given me a bit of opportunity to connect to more customers than I thought I would be able to, and given me some hope to explore if it's possible to find product/solution fit for CoderNotes. 
+
+I'm leaving what I wrote below untouched, because I think it's important to show the journey as raw as possible. There are highs and lows. I wrote this in a bit of a tentative low, and right now I'm writing in a bit of a tentative high. There's so much uncertainty at this point in CoderNotes.io's life, and it makes it hard to write clearly. 
+
+Anyway, back to the program.
 
 ## CoderNotes has finally launched.
 
@@ -26,13 +38,13 @@ I'm writing this article to organize my thoughts around what went well and what 
 
 This post is so big, that I've broken it down into three parts: You can find the links below
 
-Part 1: What Went Well
+[Part 1: What Went Well](https://www.kevinconti.com/blog/codernotes-pre-retrospective-1-what-went-well/codernotes-pre-retrospective-1-what-went-well/) (coming soon!)
 
-Part 2: What Went Wrong
+[Part 2: What Went Wrong](https://www.kevinconti.com/blog/codernotes-pre-retrospective-2-what-went-wrong/) (coming soon!)
 
-Part 3: What's Happening Next
+[Part 3: What's Happening Next]() (coming soon!)
 
-> Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscriptiion info product business, and two tiny SaaSs.
+> Worth mentioning... before Tuple, I created several paid info products, a paid Rails app, a subscription info product business, and two tiny SaaSs.
 >
 > Tuple was not my first at-bat. I created a half-dozen less successful things first.
 >
