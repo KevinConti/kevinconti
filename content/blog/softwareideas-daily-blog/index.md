@@ -15,6 +15,7 @@ published: true
     1. [July ($0 MRR -> $1,692 MRR)](#july)
     2. [August (\$1,730 MRR -> ?)](#august)
         1. [August 3rd](#august-3rd)
+        2. [August 4th](#august-4th)
 
 ## What's this about?
 
@@ -38,7 +39,7 @@ Sorry about that. I'm working on getting them moved over. Expect this in the nex
 
 ### July
 
-Porting these over shortly!
+Porting these over shortly! For now, [you can read them here](https://t.co/9oNjKYXXg1?amp=1)
 
 ### August
 
@@ -78,3 +79,41 @@ I've been thinking about how I could make it better. I'm still debating this and
 Alright, last thought: I've only had 3 out of 10 resubscribe from the original pre-sale. Not great numbers, unfortunately. If we apply that to my regular customers, we would have almost 25% monthly churn, which is not sustainable. The goal of August is to double the value of a subscription, which hopefully will reduce churn as a side-effect. But September's goal will be to make the product less churn-worthy. There are a couple ways of doing that, but I'll wait to talk about them when we get there.
 
 Long post today, thanks for reading!
+
+#### August 4th
+
+**$1,900 MRR, $6,151 in sales**
+
+##### Recap
+
+Woot, \$1900 MRR! 🥳🥳🥳
+
+I have an extremely aggresive revenue goal of getting to \$3,000 by the end of August, but it's looking possible right now. Really cool.
+
+Yesterday, I was able to accomplish all of the goals I had set out for myself, which is great. The membership site now checks your membership status when you try to create an account! Here's what's left:
+
+-   Check membership status when signing in (a repeat of the logic I already wrote, just in another place)
+-   Add the Stripe Customer Portal to allow people to cancel subscriptions / create subscriptions
+-   Make the UI all pretty
+
+I'm feeling reasonably confident that I can get this done by my self-imposed deadline by the 17th. The scariest part was the authentication, and that's now taken care of.
+
+##### Goals
+
+Today's goals are:
+
+1. Write idea #2 for Issue #9
+2. (Stretch) Do signing-in logic
+3. Follow up with non-renewal people from the pre-sales, try to gain some insight into why they didn't renew.
+
+Not a lot, but I'm limited on my time on Tuesdays
+
+##### Planning
+
+I modified my goals yesterday [on twitter](https://twitter.com/Kev_Conti/status/1290384377990598660).
+
+My big-picture goal for the month of August is to **double the value of a softwareideas.io subscription for people actively searching for their next business idea**.
+
+The KPI I'm using to track this is the ratio of email signups to paid users. I'll be tracking this every day along with my MRR and sales numbers. Yesterday, it was 16.46. Today, it's 14.74. My goal is 8.23.
+
+Making progress!
