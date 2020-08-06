@@ -16,6 +16,7 @@ published: true
     2. [August (\$1,730 MRR -> ?)](#august)
         1. [August 3rd](#august-3rd)
         2. [August 4th](#august-4th)
+        3. [August 6th](#august-6th)
 
 ## What's this about?
 
@@ -117,3 +118,45 @@ My big-picture goal for the month of August is to **double the value of a softwa
 The KPI I'm using to track this is the ratio of email signups to paid users. I'll be tracking this every day along with my MRR and sales numbers. Yesterday, it was 16.46. Today, it's 14.74. My goal is 8.23.
 
 Making progress!
+
+#### August 6th
+
+**$2,035 MRR, $6,151 in sales, 14.14 Subscriber : Paid ratio**
+
+![](/forestry/2000-mrr.JPG)
+
+Hit \$2k MRR today. It's such a crazy feeling, because today marks one whole month since the product publically launched. I'm posting a milestone on IndieHackers today to share, but I won't go into much here. In fact, here I want to talk about the other side of the coin.
+
+But first, let's recap goals:
+
+##### Recap
+
+Yesterday, I had a great call with Dru Riley of Trends. We talked about the newsletter business, shared some private metrics, and overall it was a great chat. We have another one planned for next week. It's great to be able to talk to someone in a similar business as me.
+
+##### Goals
+
+My goals for today are as follows:
+
+-   Post the IH milestone, share it around some communities
+-   Finish Idea #3 and edit #1 and #2
+-   (Stretch) start writing the free newsletter
+
+##### KPI
+
+My main goal for this month is to get my Subscriber : Paid Customer ration down from it's peak of 16.46 to 8.23. Today it's sitting pretty at 14.14. That's thanks to two bigger-than-average sales days. There are a lot of ways to improve this ratio, and two that I'm working on behind the scenes are:
+
+1. Improve the free "preview" newsletter to increase conversions from my existing email list
+2. Improve the drip campaign to give more value, hopefully increasing conversions
+3. Improve my analytics so I can identify which channels are working and which ones aren't
+
+All of these will help with the ratio, but the reason I choose the ratio as the KPI from the beginning was so that I could double the value of a softwareideas.io subscription. The main effort I'm making here is by creating the membership site, the first piece of members-only bonus content (I need a better name for this), and opening up my first software partnerships.
+
+All of that is coming along, but slowly. I have just eight more working days until that goal, and I hope I can deliver on-time. Thankfully, the first piece of bonus content is mostly done, and it shouldn't take too much time. The membership site is almost done from a technical perspective (authentication and content-filtering), after that is just about making it look good and setting up the newsletter archive.
+
+##### Success
+
+\$2,000 MRR in 30 days. It's great, but there's a serious downside. I hate the feeling of demotivating some of my friends.
+
+I've noticed that some really hard-working friends who probably deserve to be more successful than me are feeling a little demotivated because of my own situation. It sucks that it's happening because I want to be a message of "You can do it too, faster than me probably." I don't want to be the reason people get demotivated and give up.
+
+I don't know. I don't have coherent thoughts around this. I'm just worried that if the small amount of success I've seen so far is causing resentment, then if I keep growing at the rate I'm growing at, I'll end up losing people I consider friends. I hope that doesn't happen.
