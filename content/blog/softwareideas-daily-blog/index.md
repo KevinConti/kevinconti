@@ -178,4 +178,8 @@ My goals for today are:
 
 I'm pretty excited about that meeting, and I'm hoping I'll have some free time today to work on the memberhsip site. It's still up in the air though.
 
-I'm noticing that there's a number of little things that are slipping through the cracks. I've definitely had to choose where to prioritize my time. It's too early to bring someone on, but I wish I had the ability to hire an administrative assistant or some other VA that could catch these little things. Hopefully in the near future!
+##### The Little Things
+
+I'm noticing that there's a number of little things that are slipping through the cracks, like importing July's posts into this blog. I've definitely had to choose where to prioritize my time.
+
+It's too early to bring someone on, but I wish I had the ability to hire an administrative assistant or some other VA that could catch these little things. Hopefully in the near future!
