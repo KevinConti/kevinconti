@@ -160,3 +160,22 @@ All of that is coming along, but slowly. I have just eight more working days unt
 I've noticed that some really hard-working friends who probably deserve to be more successful than me are feeling a little demotivated because of my own situation. It sucks that it's happening because I want to be a message of "You can do it too, faster than me probably." I don't want to be the reason people get demotivated and give up.
 
 I don't know. I don't have coherent thoughts around this. I'm just worried that if the small amount of success I've seen so far is causing resentment, then if I keep growing at the rate I'm growing at, I'll end up losing people I consider friends. I hope that doesn't happen.
+
+#### August 7th
+
+**$2,186 MRR, $7,006 in sales, 13.84 Subscriber : Paid ratio**
+
+Yesterday I posted the \$2,000 MRR milestone to IndieHackers. That usually leads to a ton of new signups for the free newsletter, but thankfully the conversion rate was high enough that the subsriber : paid ratio still went down. Still heading down towards 8.23!
+
+##### Goals
+
+My goals for today are:
+
+-   Edit Issue #9
+-   Write Issue #9 preview using new format
+-   (Stretch) Work on membership site to store and use membership status on login
+-   Meeting with analytics expert on how I could be better tracking my analytics
+
+I'm pretty excited about that meeting, and I'm hoping I'll have some free time today to work on the memberhsip site. It's still up in the air though.
+
+I'm noticing that there's a number of little things that are slipping through the cracks. I've definitely had to choose where to prioritize my time. It's too early to bring someone on, but I wish I had the ability to hire an administrative assistant or some other VA that could catch these little things. Hopefully in the near future!
