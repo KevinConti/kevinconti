@@ -183,3 +183,40 @@ I'm pretty excited about that meeting, and I'm hoping I'll have some free time t
 I'm noticing that there's a number of little things that are slipping through the cracks, like importing July's posts into this blog. I've definitely had to choose where to prioritize my time.
 
 It's too early to bring someone on, but I wish I had the ability to hire an administrative assistant or some other VA that could catch these little things. Hopefully in the near future!
+
+#### August 10th
+
+**$2,528 MRR, $7,227 in sales, 14.24 Subscriber : Paid ratio**
+
+Over the weekend I saw a large increase in sales from my [\$2k IndieHackers milestone](https://www.indiehackers.com/product/softwareideas-io/2-000-mrr-in-one-month--ME2S-bGlh7BPWJPBVSz), but it also leads to a lot of less-relevant traffic than my usual daily traffic, which caused the subscriber to paid ratio to go up.
+
+##### KPI
+
+I had a chat on Friday with Blake, an analytics expert, who gave me a bunch of great tips that I plan on implementing for improving visibility into channels. One relevant takeaway is that it would be better for me to track conversion rate (Paid : Subscriber ratio) than it's inverse like I'm doing now.
+
+So if I convert my goal into that, here's what it would be:
+
+Original conversion rate: **6.07%**
+Target conversion rate: **12.15%**
+Current conversion rate: **7.02%**
+
+I haven't been super happy with conversion rate as the KPI, because it's optimizing the wrong thing. I can get this higher by tweaking sales copy, email copy, etc easier than by increasing the value of the SoftwareIdeas.io subscription. But I think it's fine for now.
+
+##### Hiring
+
+I spoke about possibly bringing on someone to take on the smaller tasks. Well, I've unofficially brought on my girlfriend to help. She was looking to make some extra money anyway, and it's a great win for me. Hopefully I should be dropping fewer balls this way. We're experimenting with this throughout the week, seeing how many hours she can actually put into the business.
+
+Hopefully it turns out well!
+
+##### Membership Site
+
+As of Friday, I finished all of the Authentication and Payments logic for the Membership Site. The development went smoothly, which was a huge relief.
+
+All that's left is to make the site functional and pretty, which I'll have to do this week if I want to release on time (next Monday).
+
+##### Goals:
+
+Goals for today:
+
+-   Write Idea #1 and #2 for SoftwareIdeas newsletter Issue #10
+-   (Stretch) Get newsletter archive functional on membership site (use Mailchimp API to get the relevant emails)
