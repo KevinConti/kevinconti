@@ -220,3 +220,12 @@ Goals for today:
 
 -   Write Idea #1 and #2 for SoftwareIdeas newsletter Issue #10
 -   (Stretch) Get newsletter archive functional on membership site (use Mailchimp API to get the relevant emails)
+
+#### August 12th
+
+**$2,699 MRR, $7,284 in sales, 7.28% Conversion Rate (goal is 12.15%)**
+
+Conversion rate increased again, but I'm still a while away from my goal. Here are my goals for today:
+
+-   Write Idea #3 for Issue #10
+-   Finish the "The Foundation" and "Software Discount" sections of the website, both visually and functunally.
