@@ -229,3 +229,35 @@ Conversion rate increased again, but I'm still a while away from my goal. Here a
 
 -   Write Idea #3 for Issue #10
 -   Finish the "The Foundation" and "Software Discount" sections of the website, both visually and functunally.
+
+#### August 13th
+
+**$2,737 MRR, $7,227 in sales, 7.33% Conversion Rate (goal is 12.15%)**
+
+Completed all of yesterday's goals, which is great. The membership site just needs to be put in production now, and have the content added.
+
+Today's goals are pretty simple:
+
+-   Edit Issue #10
+-   Send emails to partners, getting the information I need
+
+I actually took last afternoon off, I was feeling a little tired and stressed from work. I'm happy to be building a company that allows me to take any given day off, it's definitely one of the perks.
+
+##### Analytics
+
+It's been about a week since I finally fixed my analytics to allow me to track conversion rates by channel. Before I didn't have any metrics around this, which was really bad. Now I finally have some idea:
+
+-   A whopping 43% of sales are coming from people after they sign up for the free issue, directly from my email list
+-   In total, 72% of sales this week have come from my email list in some form or another
+-   16% of sales have come from IndieHackers
+-   Twitter didn't make the list, but I don't have insight into how many people are subscribing from twitter
+
+So, based on this I have some items I want to track:
+
+1. I think that I need to start tracking how a user flows through my funnel. I may add a page that is only for twitter followers so I can tag them in Mailchimp, and then I'd be able to gather the conversion ratio via Mailchimp's analytics (# of Twitter tagged users / # that are also Premium tagged).
+
+2. I need to be tracking when a visitor to the site signs up for the free issue, by channel. This means I need to spend some time getting the button to fire on the site and have that set as a conversion.
+
+A third but unrelated one is that I need to put some effort into tracking analytics in the app. I'll add Mixpanel as a third task for today. I don't need fancy tracking here, but I need to understand what % of paid users are coming to the website, what % of those are actually reading the bonus content, clicking through to the partnerships, etc. I honestly forgot about needing to track this until right now.
+
+Alright, hopefully I'll have finished all three of these for tomorrow.
