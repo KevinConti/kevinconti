@@ -12,19 +12,22 @@ published: true
 
 1. [About](#whats-this-about)
 2. [Updates](#updates)
+
     1. [July ($0 MRR -> $1,692 MRR)](#july)
 
-        * [July 9th](#july-9th)
-        * [July 14th](#july-14th)
-        * [July 16th](#july-16th)
-        * [July 21st](#july-21st)
-        * [July 22nd](#july-22nd)
-        * [July 24th](#july-24th)
-        * [July 30th](#july-30th)
+        - [July 9th](#july-9th)
+        - [July 14th](#july-14th)
+        - [July 16th](#july-16th)
+        - [July 21st](#july-21st)
+        - [July 22nd](#july-22nd)
+        - [July 24th](#july-24th)
+        - [July 30th](#july-30th)
+
     2. [August (\$1,730 MRR -> ?)](#august)
         1. [August 3rd](#august-3rd)
         2. [August 4th](#august-4th)
         3. [August 6th](#august-6th)
+        4. [August 20th](#august-20th)
 
 ## What's this about?
 
@@ -55,11 +58,11 @@ Porting these over shortly! For now, [you can read them here](https://t.co/9oNjK
 My project: [https://softwareideas.io](https://softwareideas.io)
 
 Some of you may have seen this on #general from earlier today, but my first SaaS,
-[CoderNotes.io](https://codernotes.io/),  is currently launched. I feel like I've learned a ton from the experience, especially on what NOT to do when coming up with an idea.
+[CoderNotes.io](https://codernotes.io/), is currently launched. I feel like I've learned a ton from the experience, especially on what NOT to do when coming up with an idea.
 
 I've been debating between pivoting or starting a new project, and have been exploring both concurrently. For the new project, I've been doing a lot of research on existing markets, trying to find bootstrapper-sized opportunities in the niches. I realized that this research is really valuable to other bootstrappers, so I made a quick landing page and talked to a few people to see if they'd be willing to pay.
 
-As of right now, I have 10 users who have paid $19 each to join on for the premium newsletter in July, to help me make it good enough for the public spotlight. I'm looking forward to being active in this challenge as I try to get this newsletter up and running!
+As of right now, I have 10 users who have paid \$19 each to join on for the premium newsletter in July, to help me make it good enough for the public spotlight. I'm looking forward to being active in this challenge as I try to get this newsletter up and running!
 
 **P.S, for anyone who's still searching for an idea for JustShipJuly**, I made two free versions of the newsletter. They are bigger opportunities, but maybe you'll find something you like in there!
 
@@ -68,35 +71,42 @@ Issue #1: [https://mailchi.mp/44649091c9d0/downstream-saas-ideas-issue-1](https:
 Issue #2: [https://mailchi.mp/927e9a1ad029/downmarket-saas-ideas-issue-2](https://mailchi.mp/927e9a1ad029/downmarket-saas-ideas-issue-2)
 
 #### July 2nd
+
 Finished the draft of Issue #3, but it took longer than expected due to some inefficiencies in my research process. Those are ironed out now and I'll be able to move more quickly in the writing process in the future.
 
 Today's goals:
-* Finish Issue #3 editing, send out to premium audience
-* Edit landing page, and get feedback on it from maker communities, then share with Email list
-* (BONUS): Rewrite Issue #2 in markdown and share to various content distribution Indie Hackers and Reddit
+
+-   Finish Issue #3 editing, send out to premium audience
+-   Edit landing page, and get feedback on it from maker communities, then share with Email list
+-   (BONUS): Rewrite Issue #2 in markdown and share to various content distribution Indie Hackers and Reddit
 
 #### July 3rd
-I was able to send out Issue #3 to premium members yesterday, I've already had 2 out of 11 people email me back and say how high-quality it is, which is awesome to hear. 
+
+I was able to send out Issue #3 to premium members yesterday, I've already had 2 out of 11 people email me back and say how high-quality it is, which is awesome to hear.
 
 I also created a first-draft of the landing page, but I'm not happy with it yet. Too much white space maybe? You can see it here: [https://softwareideas.io](https://softwareideas.io)
 
 I'm taking it a bit easier today, seeing as it's a holiday, and the only thing I'll be doing is some research for Issue #4. I'm hoping to find two good candidates for companies to write about for next week's issue.
 
 #### July 6th
-Took the holiday/weekend off. 
+
+Took the holiday/weekend off.
 
 Recap:
-* Got great responses from Issue #3, now I'm working on getting to 20 subscribers to push the idea forward even more
+
+-   Got great responses from Issue #3, now I'm working on getting to 20 subscribers to push the idea forward even more
 
 Here are my goals today:
-* (Already done) Reformat my free newsletter issue from Html to Markdown, so I can distribute it on IndieHackers and Reddit
-* (Already done) Update landing page at softwareideas.io
-* (Already done) gather two more ideas for this week's newsletter
-* Post said content
-* (Stretch) Investigate other channels - Notably paid Google, Medium, and Twitter
+
+-   (Already done) Reformat my free newsletter issue from Html to Markdown, so I can distribute it on IndieHackers and Reddit
+-   (Already done) Update landing page at softwareideas.io
+-   (Already done) gather two more ideas for this week's newsletter
+-   Post said content
+-   (Stretch) Investigate other channels - Notably paid Google, Medium, and Twitter
 
 Things I've been debating:
-* I've changed the newsletter from $19/month to $57/3 months. This was in response to some people admitting to me that they would buy a single month, just to read all the past posts in one go, then cancel. I've known that Annual is eventually where this newsletter would need to go, but I'm not ready to commit to the project that long (it still needs more validation). Therefore, I created a quarterly plan. This will be a good experiment to see if people are willing to commit to that value up front, as well as to see how many people from my first cohort will convert at this price.
+
+-   I've changed the newsletter from $19/month to $57/3 months. This was in response to some people admitting to me that they would buy a single month, just to read all the past posts in one go, then cancel. I've known that Annual is eventually where this newsletter would need to go, but I'm not ready to commit to the project that long (it still needs more validation). Therefore, I created a quarterly plan. This will be a good experiment to see if people are willing to commit to that value up front, as well as to see how many people from my first cohort will convert at this price.
 
 #### July 9th
 
@@ -108,98 +118,105 @@ As you'll see from my last update, one of my goals was to post the content to In
 
 The list went from 35 people (the original group I pre-sold the newsletter to) to over 350 people in two days! Pretty nutty.
 
-I've also seen adoption at the $57/month price point, which is great. So far, 11 people have paid in that pricing model. I think a quarterly model makes me look even more professional and official, which helps people soothe their concerns about the product. It also means that if people are consistently willing to pay this price for just the newsletter, there's a really good chance I can charge even more once I add in the private community and membership site! Eventually I want to offer an annual plan too, but I want to price it at just above the average LTV, so I need to see churn first to know what that is!
+I've also seen adoption at the \$57/month price point, which is great. So far, 11 people have paid in that pricing model. I think a quarterly model makes me look even more professional and official, which helps people soothe their concerns about the product. It also means that if people are consistently willing to pay this price for just the newsletter, there's a really good chance I can charge even more once I add in the private community and membership site! Eventually I want to offer an annual plan too, but I want to price it at just above the average LTV, so I need to see churn first to know what that is!
 
-Experiencing traction like this has been so cool. It's so night-and-day compared to CoderNotes.io, which gets a new customer every two weeks or so. 
+Experiencing traction like this has been so cool. It's so night-and-day compared to CoderNotes.io, which gets a new customer every two weeks or so.
 
 So, here are my goals for today:
-* ☑️ Finish editing Issue #4 and send out to premium list
-* ☑️ Send teaser email to free email list about Issue #4
-Distribute free issue to reddit to test as a channel
-* ☑️ Fix email drip campaign for new subscribers to send the newsletter, ask how they liked it the next day, then mention what's to come for the project the day after
-* ☑️ Reach out to MailChimp support about why my confirmation emails send from my personal account
-* ☑️ Add refund policy near the payment button on landing page, and next steps on Success page
-* ☑️ Setup a Twitter account for SoftwareIdeas
-* (Stretch) Setup Stripe with MailChimp to send email and add tag when someone buys
-* (Super Stretch) Find and writeup one idea for Issue #5
+
+-   ☑️ Finish editing Issue #4 and send out to premium list
+-   ☑️ Send teaser email to free email list about Issue #4
+    Distribute free issue to reddit to test as a channel
+-   ☑️ Fix email drip campaign for new subscribers to send the newsletter, ask how they liked it the next day, then mention what's to come for the project the day after
+-   ☑️ Reach out to MailChimp support about why my confirmation emails send from my personal account
+-   ☑️ Add refund policy near the payment button on landing page, and next steps on Success page
+-   ☑️ Setup a Twitter account for SoftwareIdeas
+-   (Stretch) Setup Stripe with MailChimp to send email and add tag when someone buys
+-   (Super Stretch) Find and writeup one idea for Issue #5
 
 As you can tell I have a full plate today, but thankfully my day job should be quiet and allow me to deliver on most of these!
 
 #### July 10th
+
 **$1,235 in sales, $342 MRR**
 
 I'm revisiting how I do MRR, since I have 11 customers who technically aren't set up to recur. Yesterday I counted them all as MRR, but today I counted none of them, which is more accurate.
 
-Had a very productive day yesterday, and had a ton more sales, which is great. Email list is up to 400. 
+Had a very productive day yesterday, and had a ton more sales, which is great. Email list is up to 400.
 
 Here's my goals for today:
 
-* Research and write about one company
-* Create a duplicate of my notion workspace so I can share it on Indie Hackers, to show people how I validated softwareideas.io
+-   Research and write about one company
+-   Create a duplicate of my notion workspace so I can share it on Indie Hackers, to show people how I validated softwareideas.io
 
 It doesn't look like a lot, but this will be a TON of work! I probably can't get to it all
 
 #### July 11th
+
 **$1,463 in sales, $418 MRR**
 
-Getting close to $500 MRR, which is super exciting! I basically didn't accomplish any work on Friday, since my day-job was pretty demanding and took away what little free time I had. 
+Getting close to \$500 MRR, which is super exciting! I basically didn't accomplish any work on Friday, since my day-job was pretty demanding and took away what little free time I had.
 
 The email list continues to grow practically on its own, being almost at 500 subscribers. I've noticed that a lot of them are Twitter founders who are curious but not interested in buying, which is making my newsletter metrics trend down. However, I've gotten really good feedback on how my preview newsletters (light versions of the premium newsletter that basically tease the three opportunities I talk about this week) have converted pretty well, so I'm happy that the list is so big.
 
-I've also noticed a lot of benefit in the quarterly plan I went with. Not only does it lead to a secure feeling of MRR, but I think it also lets people treat it almost like a one-time purchase. When they want to see a newsletter, they think of it as $57, not $19/month. I think this is working out in my favor, although it all may backfire if the churn is insane. I'm really hoping that churn remains manageable, otherwise growing this thing will be impossible. 
+I've also noticed a lot of benefit in the quarterly plan I went with. Not only does it lead to a secure feeling of MRR, but I think it also lets people treat it almost like a one-time purchase. When they want to see a newsletter, they think of it as $57, not $19/month. I think this is working out in my favor, although it all may backfire if the churn is insane. I'm really hoping that churn remains manageable, otherwise growing this thing will be impossible.
 
 Hopefully, the community and other things I have in the works will help with that.
 
-No goals for today, just going to take it easy and enjoy the weekend. 
+No goals for today, just going to take it easy and enjoy the weekend.
 
 #### July 12th
+
 **$1,577 in sales, $456 MRR**
 
-* Took about 20 minutes yesterday to create Zapier integrations so I could stop sending manual welcome emails to paid subscribers, but besides that I didn't do any work yesterday
-* Still had a couple subscriptions roll in, which was nice even though I didn't work
-
+-   Took about 20 minutes yesterday to create Zapier integrations so I could stop sending manual welcome emails to paid subscribers, but besides that I didn't do any work yesterday
+-   Still had a couple subscriptions roll in, which was nice even though I didn't work
 
 Today's Goals:
 
-* Share a milestone on IH for 500 newsltter subscribers and $456 MRR in one week.
-* (Stretch) prepare an anonymized copy of my notion template to show how I validated this idea, for a blog post
+-   Share a milestone on IH for 500 newsltter subscribers and \$456 MRR in one week.
+-   (Stretch) prepare an anonymized copy of my notion template to show how I validated this idea, for a blog post
 
 #### July 13th
+
 **$1,634 in sales, $475 MRR**
 
 Didn't do much on Sunday, I had an allergy attack and was basically non-functional.
 
 Here are the goals for today:
 
-* Research and rough draft of 1 business for Thursday's newsletter
-* Anonymize my validation Notion document for blog post.
-* Research memberful / member-whatever to see how difficult it will be to implement for the custom site
+-   Research and rough draft of 1 business for Thursday's newsletter
+-   Anonymize my validation Notion document for blog post.
+-   Research memberful / member-whatever to see how difficult it will be to implement for the custom site
 
 #### July 14th
+
 **$1,862 in sales, $551 MRR**
 
-**Milestone achieved: $500 MRR!** That's pretty exciting. I've been consistently getting three new subscriptions per day, which is WAY above expectation, especially since I haven't been doing any outreach to new customers since last Thursday/Friday.
+**Milestone achieved: \$500 MRR!** That's pretty exciting. I've been consistently getting three new subscriptions per day, which is WAY above expectation, especially since I haven't been doing any outreach to new customers since last Thursday/Friday.
 
 I only accomplished 1 of yesterday's goals, although I was able to catch up on some other work that I had been behind on, so I'm not too mad.
 
 Today's only goal is to research and write about one more company for Thursday's upcoming newsletter. Gonna get started on that now!
 
 #### July 16th
+
 **$2,147 in sales, $646 MRR**
 
-*(Doing my update a day in advance)*
+_(Doing my update a day in advance)_
 
-**I hit two new milestones today: $600 MRR and $2,000 in sales!** Both are super cool milestones. 
+**I hit two new milestones today: $600 MRR and $2,000 in sales!** Both are super cool milestones.
 
 My goals for today are:
 
-* Edit and schedule newsletter Issue #5
-* Create the preview newsletter and schedule to send to non-premium subscribers of the email list
-* Finish anonymizing my notion template and prepare the post to share to IndieHackers and reddit
-* Send customer support ticket to Landen
-* (STRETCH): Start creating membership site for members.softwareideas.io
+-   Edit and schedule newsletter Issue #5
+-   Create the preview newsletter and schedule to send to non-premium subscribers of the email list
+-   Finish anonymizing my notion template and prepare the post to share to IndieHackers and reddit
+-   Send customer support ticket to Landen
+-   (STRETCH): Start creating membership site for members.softwareideas.io
 
 #### July 17th
+
 **$2,147 in sales, $646 MRR**
 
 I had my first zero-sales day since the product launched, which really put me into a bad mood. It's funny how quickly I got used to seeing sales come in each day and how accustomed I got to the feeling. A single day where momentum stopped and I felt like a failure.
@@ -210,93 +227,94 @@ Part of it is also that yesterday was a release day, where I get the opportunity
 
 Goals for today:
 
-* Write one idea (I'll finally be getting ahead of schedule if I can do this!)
-* Start membership site
-* Share validation template with email list
+-   Write one idea (I'll finally be getting ahead of schedule if I can do this!)
+-   Start membership site
+-   Share validation template with email list
 
 #### July 20th
-**$2,426.30 in sales, $739.10 MRR**
 
+**$2,426.30 in sales, $739.10 MRR**
 
 Didn't do any work on the weekend, and it seems like sales have started to slow down from the natural boost I got when someone popular tweeted about SoftwareIdeas.io. I'd say that I'm down from 3 sales a day to a more realistic 1 sale/day.
 
 I feel like there's so much to tackle right now. Here's my short list of all the things I want to explore:
 
-* Explore paid channels, most notably newsletter sponsorships
-* Design the membership site
-* Find a good referral software
-* Investigate a possible affiliate program
-* Create a SoftwareIdeas.io twitter account
-* Probably a bunch more that I'm forgetting
+-   Explore paid channels, most notably newsletter sponsorships
+-   Design the membership site
+-   Find a good referral software
+-   Investigate a possible affiliate program
+-   Create a SoftwareIdeas.io twitter account
+-   Probably a bunch more that I'm forgetting
 
+On Friday, I took my first stab at the membership site. I have a feeling that I want to get that live as soon as possible, since it will significantly increase the value of my subscription and hopefully increase my conversion rate.
 
-On Friday, I took my first stab at the membership site. I have a feeling that I want to get that live as soon as possible, since it will significantly increase the value of my subscription and hopefully increase my conversion rate. 
+One exciting thing that's happening this week is that this is the last issue that my pre-sales customers are receiving. They all agreed to pay a one-time payment of \$19 (full price) for the first four issues. This week, they'll have the opportunity to subscribe the the quarterly edition. I'll probably offer a discount, which will cheat the numbers a bit, but it will be good to get a rough idea of how many churn out.
 
-One exciting thing that's happening this week is that this is the last issue that my pre-sales customers are receiving. They all agreed to pay a one-time payment of $19 (full price) for the first four issues. This week, they'll have the opportunity to subscribe the the quarterly edition. I'll probably offer a discount, which will cheat the numbers a bit, but it will be good to get a rough idea of how many churn out. 
+If they all subscribed, MRR right now would be **\$948.10**, which is almost \$1k!
 
-If they all subscribed, MRR right now would be **$948.10**, which is almost $1k!
+My guess is that five will sign up. I'm hoping to be wrong here and that churn is way lower than that, but that's where my gut is. If that's the case, and I also see 50% churn in September (when my first quarterly subscribers can unsub), I may have to rethink my pricing structure.
 
-My guess is that five will sign up. I'm hoping to be wrong here and that churn is way lower than that, but that's where my gut is. If that's the case, and I also see 50% churn in September (when my first quarterly subscribers can unsub), I may have to rethink my pricing structure. 
-
-It's very possible that this product has a high churn, which is why I'm looking to offer an annual plan as soon as I have an idea of the customer LTV. 
+It's very possible that this product has a high churn, which is why I'm looking to offer an annual plan as soon as I have an idea of the customer LTV.
 
 Well, this was super ramble-y. Here are my goals for today:
 
-* ☑️ Finish idea #1
-* ☑️ Research and write Idea #2
-* ☑️ Play with baremetrics and profitwell and figure out which one I like better
-* Cut expenses on CoderNotes.io. I have some subscriptions that are really cutting into the profit coming from SoftwareIdeas.io. Based on last month, I need to get my OpEx down a bit.
-* Find a logo package I'm happy with that includes Twitter stuff.
-* Start to look at newsletter referral tools.
-
+-   ☑️ Finish idea #1
+-   ☑️ Research and write Idea #2
+-   ☑️ Play with baremetrics and profitwell and figure out which one I like better
+-   Cut expenses on CoderNotes.io. I have some subscriptions that are really cutting into the profit coming from SoftwareIdeas.io. Based on last month, I need to get my OpEx down a bit.
+-   Find a logo package I'm happy with that includes Twitter stuff.
+-   Start to look at newsletter referral tools.
 
 Seems like a lot, but I should have about 6-8 hours of time to work on SoftwareIdeas.io today, so I think it's accomplish-able!
 
 #### July 21st
+
 **$2,603 in sales, $796 MRR**
 
-Had a big sales day yesterday! Four new sign-ups, bringing the newsletter to the edge of $800 MRR. Super excited to hit the $833MRR/$10KARR milestone in the next few days!
+Had a big sales day yesterday! Four new sign-ups, bringing the newsletter to the edge of $800 MRR. Super excited to hit the $833MRR/\$10KARR milestone in the next few days!
 
 Yesterday I ended up having less time than I expected, and I was only able to get done with the most important of my tasks. Still, I got a lot done.
 
 Today's goals:
 
-* Research and write Idea #3
-* Create a list of all CoderNotes.io expenses, so I know what I can cut
-* Fix my email automation chain to be a bit more engaging to users
+-   Research and write Idea #3
+-   Create a list of all CoderNotes.io expenses, so I know what I can cut
+-   Fix my email automation chain to be a bit more engaging to users
 
 I don't have a ton of time today, so this seems like a good set of goals for today.
 
 #### July 22nd
+
 **$2,741 in sales, $853 MRR**
 
-Broke $10k ARR today! 
+Broke \$10k ARR today!
 
 Nothing special to say about yesterday, I hit the important goals. Today, my goals are:
 
-* Investigate the free preview newsletter I send out to people, see how it can be improved to not go to spam as often
-* Also, see if I can improve conversion rate on that email by giving people the opportunity to sign up at the very top
-* Edit this week's newsletter
-* (Stretch) Work on the membership site more
+-   Investigate the free preview newsletter I send out to people, see how it can be improved to not go to spam as often
+-   Also, see if I can improve conversion rate on that email by giving people the opportunity to sign up at the very top
+-   Edit this week's newsletter
+-   (Stretch) Work on the membership site more
 
 #### July 23rd
-**$2,850 in sales, $891 MRR**
 
+**$2,850 in sales, $891 MRR**
 
 ![](/forestry/7-23.jpg)
 
-Starting to get close to the $1k MRR milestone! 
+Starting to get close to the \$1k MRR milestone!
 
 Side note, does anyone else feel like $1k MRR sounds like less than $10k ARR? Or is that just me?
 
 Anyway, I have very limited time for today, so my goal is simply to research and write 1 idea for Issue #7. Issue #6 comes out today, which is always exciting because I send out a preview letter to my email subscribers (~900 and counting!). So far, I haven't seen these preview newsletters lead to many conversions, but I'm hopeful that this will change over time.
 
 #### July 24th
+
 **$3,135 in sales, $1,005 MRR**
 
 ![](/forestry/7-24.jpg)
 
-**Thanks to a huge sales day, I hit the big milestone of $1k MRR!**
+**Thanks to a huge sales day, I hit the big milestone of \$1k MRR!**
 
 This has been such a fun project to start and run. It feels so very different from my other experiences, where I have mainly been fighting for the product to be successful. For SoftwareIdeas.io, the success barely has anything to do with me. I'm just trying to keep up with the number of people who want to buy.
 
@@ -304,33 +322,34 @@ I definitely agree with Justin here: [Ideas Matter](https://justinjackson.ca/goo
 
 I hit all my goals yesterday, so here's today:
 
-* Work on the membership site
-* Post $1k milestone on Indie Hackers
-* Take the rest of the day off to celebrate!
+-   Work on the membership site
+-   Post \$1k milestone on Indie Hackers
+-   Take the rest of the day off to celebrate!
 
 #### July 27th
+
 **$4,047 in sales, $1,328 MRR**
 
-I've had a few huge sales days, mostly thanks to sharing my milestones around. One of the nice perks of selling to founders, it seems.I'm sad that these daily updates will be wrapping up as July goes to a close, but I guess I'll have the ability to convert them to a mega-thread on my personal blog instead. 
+I've had a few huge sales days, mostly thanks to sharing my milestones around. One of the nice perks of selling to founders, it seems.I'm sad that these daily updates will be wrapping up as July goes to a close, but I guess I'll have the ability to convert them to a mega-thread on my personal blog instead.
 
 This week, I got invited on the Product Journey podcast to talk about softwareideas.io and how it's been different from codernotes.io. Should be a fun convo with Ben and Noah!
 
 Here are my goals for today:
 
-* Write opportunity #2 for this week's newsletter
-* Do research on membership solutions (memberstack / memberfull). Specifically, find out if they are hiding content by making it hidden, or by actually removing it from the DOM. Also look up how a redirect on browsers with Javascript disabled works
-* Do research and email back founder of Rewardful, ask any questions I have
-* Write and research Company #3
-
+-   Write opportunity #2 for this week's newsletter
+-   Do research on membership solutions (memberstack / memberfull). Specifically, find out if they are hiding content by making it hidden, or by actually removing it from the DOM. Also look up how a redirect on browsers with Javascript disabled works
+-   Do research and email back founder of Rewardful, ask any questions I have
+-   Write and research Company #3
 
 On a personal note, I told my girlfriend yesterday that I plan on giving her a 25% profit share of the company while I am working on it nights and weekends. She makes a big sacrifice by not being able to spend time with me on this product, and while money doesn't solve that problem at least she knows I'm aware and respecting that sacrifice.
 
 At first she was uncomfortable with the offer, but when I explained my thought process she seemed okay with it, and plans to put it towards what we're saving for a down payment (which is what I would have put it towards anyway, actually). So I think it will work out well!
 
 #### July 29th
+
 **$4,969 in sales, $1,490 MRR**
 
-Coming to the end of Just Ship July, looks likely that $1.5k will be my final milestone before softwareidea.io's first month is over. Crazy.
+Coming to the end of Just Ship July, looks likely that \$1.5k will be my final milestone before softwareidea.io's first month is over. Crazy.
 
 Some less exciting results: Out of 10 pre-sales, two have renewed their accounts, and 1 has bowed out. Too early to tell what the final numbers will be, but I'm happy to have at least gotten the two so far. I'm hoping I'll be following up with everyone who hasn't gotten back to me today, since if they don't renew they'll miss Issue #7.
 
@@ -338,59 +357,57 @@ Also a mental-health win: I had no sales most of yesterday, but I'm getting more
 
 My goals for today:
 
-* Reach out to all of the pre-sales and see if they want to renew
-* Finish editing Issue #7 for release tomorrow
-* Write idea #1 for next week's Issue
-* (Stretch) Work a bit on the memberhsip site
-
+-   Reach out to all of the pre-sales and see if they want to renew
+-   Finish editing Issue #7 for release tomorrow
+-   Write idea #1 for next week's Issue
+-   (Stretch) Work a bit on the memberhsip site
 
 #### July 30th
+
 **$5,183 in sales, $1,561 MRR**
 
-A good sales day has thrown softwareideas.io right past the $1500 MRR milestone! Can't believe it's grown 50% in just six days… Crazy.
+A good sales day has thrown softwareideas.io right past the \$1500 MRR milestone! Can't believe it's grown 50% in just six days… Crazy.
 
-Also not captured in MRR is a lifetime account. Someone really wanted one, so I offered it to them for the cost of two years' subscription (~$450), which they happily agreed to. That was a pretty nice bonus. Not trying to make that a thing anytime soon, but happy to lock in that kind of money if people are actively reaching out to me for it!
+Also not captured in MRR is a lifetime account. Someone really wanted one, so I offered it to them for the cost of two years' subscription (~\$450), which they happily agreed to. That was a pretty nice bonus. Not trying to make that a thing anytime soon, but happy to lock in that kind of money if people are actively reaching out to me for it!
 
 Tomorrow's the last day of Just Ship July, but my work on this project is just getting started! I'll be moving these daily updates to my blog at kevinconti.com, unless I can think of someplace better.
 
 My goals for today:
 
-* Finish idea #1 (almost done)
-* Write idea #2
-* (Stretch) Work on the membership site
+-   Finish idea #1 (almost done)
+-   Write idea #2
+-   (Stretch) Work on the membership site
 
-
-Keeping it simple on the next-to-final day :) 
+Keeping it simple on the next-to-final day :)
 
 #### July 31st
+
 Well, I'm really going to miss doing these updates.
 
-Final update: **$5,468 in sales, $1,656 MRR, $19,870 ARR.** If I end up with one more sale today, I'll have finished justshipjuly with a $20k ARR product. Pretty cool and definitely more than I expected.
+Final update: **$5,468 in sales, $1,656 MRR, \$19,870 ARR.** If I end up with one more sale today, I'll have finished justshipjuly with a \$20k ARR product. Pretty cool and definitely more than I expected.
 
 Work's been real busy the past two days (I broke something in another team's codebase!) so I'm a little behind. Here are today's goals:
- 
 
-* Finish Idea #3 for next week's newsletter. If I do this, I'll be a week ahead for the first time since starting the project!
-* Catch up on DMs. I have at least five people who I owe a response
-* Continue to work on the membership site: I have 16 days until my self-imposed deadline to create this site from scratch.
-
+-   Finish Idea #3 for next week's newsletter. If I do this, I'll be a week ahead for the first time since starting the project!
+-   Catch up on DMs. I have at least five people who I owe a response
+-   Continue to work on the membership site: I have 16 days until my self-imposed deadline to create this site from scratch.
 
 I decided to hand-roll a membership site, after doing a lot of research on the options out there (memberful, memberstack, etc).
 
-The problem with these is that they want to take ownership of your member list, and charge you a % fee on top of that. I want my members to stay in Stripe, and I want Stripe to remain my source of truth. 
+The problem with these is that they want to take ownership of your member list, and charge you a % fee on top of that. I want my members to stay in Stripe, and I want Stripe to remain my source of truth.
 
 Plus, the content hiding they do via Javascript is somewhat insecure, so I figured I'd do it the right way.I'll be using Phoenix, which has an Authorization generator that makes it really easy to do things that are otherwise a pain (such as sending a user an email if they forget a password).
 
 I'll be spending a decent chunk of time tomorrow on the membership site, my goal is to have a fully-functioning login system that's integrated against the Stripe API. If I have that, I can spend the next two weeks making it all pretty, but the biggest risk will be mitigated.Since this is the last update, I'll give some short and long-term plans:
 
-* Goal for August: Get the membership site going, with our first partnerships, bonus content, and the newsletter archive
-* Goal for three months from now: Find more consistent channels. Explore referrals, affiliates, cross-promotion, and more to lock down what works for acquiring users.
-* Goal for one year from now: Establish processes for automating parts of the business. Explore ways for me to reduce the time it takes to write the newsletter, but not lose the value.
-
+-   Goal for August: Get the membership site going, with our first partnerships, bonus content, and the newsletter archive
+-   Goal for three months from now: Find more consistent channels. Explore referrals, affiliates, cross-promotion, and more to lock down what works for acquiring users.
+-   Goal for one year from now: Establish processes for automating parts of the business. Explore ways for me to reduce the time it takes to write the newsletter, but not lose the value.
 
 Thanks to all who kept up with this thread (and the megamaker one) over this month! It's been fun to share this experience with you all!
 
 #### July 31st Cont.
+
 ![](/forestry/7-31.jpg)
 
 ### August
@@ -612,3 +629,35 @@ So, based on this I have some items I want to track:
 A third but unrelated one is that I need to put some effort into tracking analytics in the app. I'll add Mixpanel as a third task for today. I don't need fancy tracking here, but I need to understand what % of paid users are coming to the website, what % of those are actually reading the bonus content, clicking through to the partnerships, etc. I honestly forgot about needing to track this until right now.
 
 Alright, hopefully I'll have finished all three of these for tomorrow.
+
+#### August 20th
+
+**$3,231 MRR, $10,196 in sales, 8.19% Conversion Rate (goal is 12.15%)**
+
+I've been slacking on these daily updates. I can't believe it's almost been a week since I wrote one. Here's a quick recap:
+
+-   The membership site has launched to seemingly positive responses, and Blake has reached out and told me that he's already seen the partnership sale go through, which is great.
+
+-   We've hit two impressive milestones: $3k MRR and $10k in sales (more on that in a moment).
+
+-   Conversion rate has continued to climb, from our original 6.07% now up to 8.19%.
+
+All of these are awesome, and I've posted an [IH milestone](https://www.indiehackers.com/product/softwareideas-io/hit-3k-mrr--MFAVP6ZoUvIzwxTXEro) today to talk about it, but here I want to talk about the \$10k number.
+
+##### \$10k in sales
+
+With SoftwareIdeas' churn numbers being unclear, total sales is a guiding light for me. It means that, if 100% of users churn but growth stays the same, I can expect to be doing roughly \$10k in sales every 45 days (the # of days since launch).
+
+To me, that's far more impressive than the $3k MRR number. It's about $80,000/year annualized, which is _just_ under my salary as a developer. And realistically, not everyone will churn, meaning that if growth were to continue, I should expect that I'll make more this year from Software Ideas than from my developer job. That's crazy exciting.
+
+I'm a pretty risk-adverse guy, so I won't be quitting my job anytime soon. But still, it's exciting to think of the possibilities.
+
+##### Daily Goals
+
+Back to earth here, my goals for today are:
+
+-   Edit Issue #11
+-   Write teaser issue
+-   Watch The Foundation video and decide if I need to redo it
+-   Edit the Landen copy to mention the membership site
+-   Edit copy on the /sign-up page so it's usable
