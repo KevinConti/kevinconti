@@ -661,3 +661,27 @@ Back to earth here, my goals for today are:
 -   Watch The Foundation video and decide if I need to redo it
 -   Edit the Landen copy to mention the membership site
 -   Edit copy on the /sign-up page so it's usable
+
+#### August 31st
+
+**$3,687 MRR, $11,841 in sales, 8.7% Conversion Rate (goal is 12.15%)**
+
+Back from vacation! It came at a great time - I really put a ton of work into the membership site, and I needed the week-long break to come back ready to keep up my velocity.
+
+I definitely noticed a drop in sales over the vacation (to be expected), and it's been a reminder that the next big challenge for Software Ideas is to find the next reliable marketing channel. Right now, IH is a consistent, reliable channel. Twitter is _maybe_ a reliable channel, but I don't know for sure if it's converting well, and I'm looking to explore more channels.
+
+##### Goal for August: Failed
+
+To be fair, I created a VERY ambitious goal of doubling my conversion rate in a single month. In reality, the conversion rate went up from 6.07% to 8.7%, **which is a 43.33% increase**! In my mind, this is still a success.
+
+It's always hard to not focus on building the product, but it's an important lesson that you learn quickly about the reality of building a company: The product is only part of the solution. Marketing is equally as important, and now that Software Ideas is getting ready to scale, it's time for marketing to become the main focus.
+
+So here's my goal for September:
+
+**Find a second distribution channel**
+
+I'm not sure yet if Twitter is working, and step one is getting better metrics around it. Step two is to start doing experiments. I have two affiliates who are helping me explore that channel.
+
+I'll be exploring a lot more than affiliates. Two opportunities I'm really interested in is sponsoring newsletters and podcasts.
+
+That's all for now!
