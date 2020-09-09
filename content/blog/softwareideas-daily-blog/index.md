@@ -13,25 +13,26 @@ published: true
 1. [About](#whats-this-about)
 2. [Updates](#updates)
 
-   1. [July ($0 MRR -> $1,692 MRR)](#july)
+    1. [July ($0 MRR -> $1,692 MRR)](#july)
 
-      - [July 9th](#july-9th)
-      - [July 14th](#july-14th)
-      - [July 16th](#july-16th)
-      - [July 21st](#july-21st)
-      - [July 22nd](#july-22nd)
-      - [July 24th](#july-24th)
-      - [July 30th](#july-30th)
+        - [July 9th](#july-9th)
+        - [July 14th](#july-14th)
+        - [July 16th](#july-16th)
+        - [July 21st](#july-21st)
+        - [July 22nd](#july-22nd)
+        - [July 24th](#july-24th)
+        - [July 30th](#july-30th)
 
-   2. [August ($1,730 MRR -> $3,687)](#august)
+    2. [August ($1,730 MRR -> $3,687)](#august)
 
-      1. [August 3rd](#august-3rd)
-      2. [August 4th](#august-4th)
-      3. [August 6th](#august-6th)
-      4. [August 20th](#august-20th)
+        1. [August 3rd](#august-3rd)
+        2. [August 4th](#august-4th)
+        3. [August 6th](#august-6th)
+        4. [August 20th](#august-20th)
 
-   3. [September (\$3,706 MRR -> ?)](#september)
-      1. [September 4th](#september-4th)
+    3. [September (\$3,706 MRR -> ?)](#september)
+        1. [September 4th](#september-4th)
+        2. [September 9th](#september-9th)
 
 ## What's this about?
 
@@ -80,9 +81,9 @@ Finished the draft of Issue #3, but it took longer than expected due to some ine
 
 Today's goals:
 
-- Finish Issue #3 editing, send out to premium audience
-- Edit landing page, and get feedback on it from maker communities, then share with Email list
-- (BONUS): Rewrite Issue #2 in markdown and share to various content distribution Indie Hackers and Reddit
+-   Finish Issue #3 editing, send out to premium audience
+-   Edit landing page, and get feedback on it from maker communities, then share with Email list
+-   (BONUS): Rewrite Issue #2 in markdown and share to various content distribution Indie Hackers and Reddit
 
 #### July 3rd
 
@@ -98,19 +99,19 @@ Took the holiday/weekend off.
 
 Recap:
 
-- Got great responses from Issue #3, now I'm working on getting to 20 subscribers to push the idea forward even more
+-   Got great responses from Issue #3, now I'm working on getting to 20 subscribers to push the idea forward even more
 
 Here are my goals today:
 
-- (Already done) Reformat my free newsletter issue from Html to Markdown, so I can distribute it on IndieHackers and Reddit
-- (Already done) Update landing page at softwareideas.io
-- (Already done) gather two more ideas for this week's newsletter
-- Post said content
-- (Stretch) Investigate other channels - Notably paid Google, Medium, and Twitter
+-   (Already done) Reformat my free newsletter issue from Html to Markdown, so I can distribute it on IndieHackers and Reddit
+-   (Already done) Update landing page at softwareideas.io
+-   (Already done) gather two more ideas for this week's newsletter
+-   Post said content
+-   (Stretch) Investigate other channels - Notably paid Google, Medium, and Twitter
 
 Things I've been debating:
 
-- I've changed the newsletter from $19/month to $57/3 months. This was in response to some people admitting to me that they would buy a single month, just to read all the past posts in one go, then cancel. I've known that Annual is eventually where this newsletter would need to go, but I'm not ready to commit to the project that long (it still needs more validation). Therefore, I created a quarterly plan. This will be a good experiment to see if people are willing to commit to that value up front, as well as to see how many people from my first cohort will convert at this price.
+-   I've changed the newsletter from $19/month to $57/3 months. This was in response to some people admitting to me that they would buy a single month, just to read all the past posts in one go, then cancel. I've known that Annual is eventually where this newsletter would need to go, but I'm not ready to commit to the project that long (it still needs more validation). Therefore, I created a quarterly plan. This will be a good experiment to see if people are willing to commit to that value up front, as well as to see how many people from my first cohort will convert at this price.
 
 #### July 9th
 
@@ -128,15 +129,15 @@ Experiencing traction like this has been so cool. It's so night-and-day compared
 
 So, here are my goals for today:
 
-- ☑️ Finish editing Issue #4 and send out to premium list
-- ☑️ Send teaser email to free email list about Issue #4
-  Distribute free issue to reddit to test as a channel
-- ☑️ Fix email drip campaign for new subscribers to send the newsletter, ask how they liked it the next day, then mention what's to come for the project the day after
-- ☑️ Reach out to MailChimp support about why my confirmation emails send from my personal account
-- ☑️ Add refund policy near the payment button on landing page, and next steps on Success page
-- ☑️ Setup a Twitter account for SoftwareIdeas
-- (Stretch) Setup Stripe with MailChimp to send email and add tag when someone buys
-- (Super Stretch) Find and writeup one idea for Issue #5
+-   ☑️ Finish editing Issue #4 and send out to premium list
+-   ☑️ Send teaser email to free email list about Issue #4
+    Distribute free issue to reddit to test as a channel
+-   ☑️ Fix email drip campaign for new subscribers to send the newsletter, ask how they liked it the next day, then mention what's to come for the project the day after
+-   ☑️ Reach out to MailChimp support about why my confirmation emails send from my personal account
+-   ☑️ Add refund policy near the payment button on landing page, and next steps on Success page
+-   ☑️ Setup a Twitter account for SoftwareIdeas
+-   (Stretch) Setup Stripe with MailChimp to send email and add tag when someone buys
+-   (Super Stretch) Find and writeup one idea for Issue #5
 
 As you can tell I have a full plate today, but thankfully my day job should be quiet and allow me to deliver on most of these!
 
@@ -150,8 +151,8 @@ Had a very productive day yesterday, and had a ton more sales, which is great. E
 
 Here's my goals for today:
 
-- Research and write about one company
-- Create a duplicate of my notion workspace so I can share it on Indie Hackers, to show people how I validated softwareideas.io
+-   Research and write about one company
+-   Create a duplicate of my notion workspace so I can share it on Indie Hackers, to show people how I validated softwareideas.io
 
 It doesn't look like a lot, but this will be a TON of work! I probably can't get to it all
 
@@ -173,13 +174,13 @@ No goals for today, just going to take it easy and enjoy the weekend.
 
 **$1,577 in sales, $456 MRR**
 
-- Took about 20 minutes yesterday to create Zapier integrations so I could stop sending manual welcome emails to paid subscribers, but besides that I didn't do any work yesterday
-- Still had a couple subscriptions roll in, which was nice even though I didn't work
+-   Took about 20 minutes yesterday to create Zapier integrations so I could stop sending manual welcome emails to paid subscribers, but besides that I didn't do any work yesterday
+-   Still had a couple subscriptions roll in, which was nice even though I didn't work
 
 Today's Goals:
 
-- Share a milestone on IH for 500 newsltter subscribers and \$456 MRR in one week.
-- (Stretch) prepare an anonymized copy of my notion template to show how I validated this idea, for a blog post
+-   Share a milestone on IH for 500 newsltter subscribers and \$456 MRR in one week.
+-   (Stretch) prepare an anonymized copy of my notion template to show how I validated this idea, for a blog post
 
 #### July 13th
 
@@ -189,9 +190,9 @@ Didn't do much on Sunday, I had an allergy attack and was basically non-function
 
 Here are the goals for today:
 
-- Research and rough draft of 1 business for Thursday's newsletter
-- Anonymize my validation Notion document for blog post.
-- Research memberful / member-whatever to see how difficult it will be to implement for the custom site
+-   Research and rough draft of 1 business for Thursday's newsletter
+-   Anonymize my validation Notion document for blog post.
+-   Research memberful / member-whatever to see how difficult it will be to implement for the custom site
 
 #### July 14th
 
@@ -213,11 +214,11 @@ _(Doing my update a day in advance)_
 
 My goals for today are:
 
-- Edit and schedule newsletter Issue #5
-- Create the preview newsletter and schedule to send to non-premium subscribers of the email list
-- Finish anonymizing my notion template and prepare the post to share to IndieHackers and reddit
-- Send customer support ticket to Landen
-- (STRETCH): Start creating membership site for members.softwareideas.io
+-   Edit and schedule newsletter Issue #5
+-   Create the preview newsletter and schedule to send to non-premium subscribers of the email list
+-   Finish anonymizing my notion template and prepare the post to share to IndieHackers and reddit
+-   Send customer support ticket to Landen
+-   (STRETCH): Start creating membership site for members.softwareideas.io
 
 #### July 17th
 
@@ -231,9 +232,9 @@ Part of it is also that yesterday was a release day, where I get the opportunity
 
 Goals for today:
 
-- Write one idea (I'll finally be getting ahead of schedule if I can do this!)
-- Start membership site
-- Share validation template with email list
+-   Write one idea (I'll finally be getting ahead of schedule if I can do this!)
+-   Start membership site
+-   Share validation template with email list
 
 #### July 20th
 
@@ -243,12 +244,12 @@ Didn't do any work on the weekend, and it seems like sales have started to slow 
 
 I feel like there's so much to tackle right now. Here's my short list of all the things I want to explore:
 
-- Explore paid channels, most notably newsletter sponsorships
-- Design the membership site
-- Find a good referral software
-- Investigate a possible affiliate program
-- Create a SoftwareIdeas.io twitter account
-- Probably a bunch more that I'm forgetting
+-   Explore paid channels, most notably newsletter sponsorships
+-   Design the membership site
+-   Find a good referral software
+-   Investigate a possible affiliate program
+-   Create a SoftwareIdeas.io twitter account
+-   Probably a bunch more that I'm forgetting
 
 On Friday, I took my first stab at the membership site. I have a feeling that I want to get that live as soon as possible, since it will significantly increase the value of my subscription and hopefully increase my conversion rate.
 
@@ -262,12 +263,12 @@ It's very possible that this product has a high churn, which is why I'm looking 
 
 Well, this was super ramble-y. Here are my goals for today:
 
-- ☑️ Finish idea #1
-- ☑️ Research and write Idea #2
-- ☑️ Play with baremetrics and profitwell and figure out which one I like better
-- Cut expenses on CoderNotes.io. I have some subscriptions that are really cutting into the profit coming from SoftwareIdeas.io. Based on last month, I need to get my OpEx down a bit.
-- Find a logo package I'm happy with that includes Twitter stuff.
-- Start to look at newsletter referral tools.
+-   ☑️ Finish idea #1
+-   ☑️ Research and write Idea #2
+-   ☑️ Play with baremetrics and profitwell and figure out which one I like better
+-   Cut expenses on CoderNotes.io. I have some subscriptions that are really cutting into the profit coming from SoftwareIdeas.io. Based on last month, I need to get my OpEx down a bit.
+-   Find a logo package I'm happy with that includes Twitter stuff.
+-   Start to look at newsletter referral tools.
 
 Seems like a lot, but I should have about 6-8 hours of time to work on SoftwareIdeas.io today, so I think it's accomplish-able!
 
@@ -281,9 +282,9 @@ Yesterday I ended up having less time than I expected, and I was only able to ge
 
 Today's goals:
 
-- Research and write Idea #3
-- Create a list of all CoderNotes.io expenses, so I know what I can cut
-- Fix my email automation chain to be a bit more engaging to users
+-   Research and write Idea #3
+-   Create a list of all CoderNotes.io expenses, so I know what I can cut
+-   Fix my email automation chain to be a bit more engaging to users
 
 I don't have a ton of time today, so this seems like a good set of goals for today.
 
@@ -295,10 +296,10 @@ Broke \$10k ARR today!
 
 Nothing special to say about yesterday, I hit the important goals. Today, my goals are:
 
-- Investigate the free preview newsletter I send out to people, see how it can be improved to not go to spam as often
-- Also, see if I can improve conversion rate on that email by giving people the opportunity to sign up at the very top
-- Edit this week's newsletter
-- (Stretch) Work on the membership site more
+-   Investigate the free preview newsletter I send out to people, see how it can be improved to not go to spam as often
+-   Also, see if I can improve conversion rate on that email by giving people the opportunity to sign up at the very top
+-   Edit this week's newsletter
+-   (Stretch) Work on the membership site more
 
 #### July 23rd
 
@@ -326,9 +327,9 @@ I definitely agree with Justin here: [Ideas Matter](https://justinjackson.ca/goo
 
 I hit all my goals yesterday, so here's today:
 
-- Work on the membership site
-- Post \$1k milestone on Indie Hackers
-- Take the rest of the day off to celebrate!
+-   Work on the membership site
+-   Post \$1k milestone on Indie Hackers
+-   Take the rest of the day off to celebrate!
 
 #### July 27th
 
@@ -340,10 +341,10 @@ This week, I got invited on the Product Journey podcast to talk about softwareid
 
 Here are my goals for today:
 
-- Write opportunity #2 for this week's newsletter
-- Do research on membership solutions (memberstack / memberfull). Specifically, find out if they are hiding content by making it hidden, or by actually removing it from the DOM. Also look up how a redirect on browsers with Javascript disabled works
-- Do research and email back founder of Rewardful, ask any questions I have
-- Write and research Company #3
+-   Write opportunity #2 for this week's newsletter
+-   Do research on membership solutions (memberstack / memberfull). Specifically, find out if they are hiding content by making it hidden, or by actually removing it from the DOM. Also look up how a redirect on browsers with Javascript disabled works
+-   Do research and email back founder of Rewardful, ask any questions I have
+-   Write and research Company #3
 
 On a personal note, I told my girlfriend yesterday that I plan on giving her a 25% profit share of the company while I am working on it nights and weekends. She makes a big sacrifice by not being able to spend time with me on this product, and while money doesn't solve that problem at least she knows I'm aware and respecting that sacrifice.
 
@@ -361,10 +362,10 @@ Also a mental-health win: I had no sales most of yesterday, but I'm getting more
 
 My goals for today:
 
-- Reach out to all of the pre-sales and see if they want to renew
-- Finish editing Issue #7 for release tomorrow
-- Write idea #1 for next week's Issue
-- (Stretch) Work a bit on the memberhsip site
+-   Reach out to all of the pre-sales and see if they want to renew
+-   Finish editing Issue #7 for release tomorrow
+-   Write idea #1 for next week's Issue
+-   (Stretch) Work a bit on the memberhsip site
 
 #### July 30th
 
@@ -378,9 +379,9 @@ Tomorrow's the last day of Just Ship July, but my work on this project is just g
 
 My goals for today:
 
-- Finish idea #1 (almost done)
-- Write idea #2
-- (Stretch) Work on the membership site
+-   Finish idea #1 (almost done)
+-   Write idea #2
+-   (Stretch) Work on the membership site
 
 Keeping it simple on the next-to-final day :)
 
@@ -392,9 +393,9 @@ Final update: **$5,468 in sales, $1,656 MRR, \$19,870 ARR.** If I end up with on
 
 Work's been real busy the past two days (I broke something in another team's codebase!) so I'm a little behind. Here are today's goals:
 
-- Finish Idea #3 for next week's newsletter. If I do this, I'll be a week ahead for the first time since starting the project!
-- Catch up on DMs. I have at least five people who I owe a response
-- Continue to work on the membership site: I have 16 days until my self-imposed deadline to create this site from scratch.
+-   Finish Idea #3 for next week's newsletter. If I do this, I'll be a week ahead for the first time since starting the project!
+-   Catch up on DMs. I have at least five people who I owe a response
+-   Continue to work on the membership site: I have 16 days until my self-imposed deadline to create this site from scratch.
 
 I decided to hand-roll a membership site, after doing a lot of research on the options out there (memberful, memberstack, etc).
 
@@ -404,9 +405,9 @@ Plus, the content hiding they do via Javascript is somewhat insecure, so I figur
 
 I'll be spending a decent chunk of time tomorrow on the membership site, my goal is to have a fully-functioning login system that's integrated against the Stripe API. If I have that, I can spend the next two weeks making it all pretty, but the biggest risk will be mitigated.Since this is the last update, I'll give some short and long-term plans:
 
-- Goal for August: Get the membership site going, with our first partnerships, bonus content, and the newsletter archive
-- Goal for three months from now: Find more consistent channels. Explore referrals, affiliates, cross-promotion, and more to lock down what works for acquiring users.
-- Goal for one year from now: Establish processes for automating parts of the business. Explore ways for me to reduce the time it takes to write the newsletter, but not lose the value.
+-   Goal for August: Get the membership site going, with our first partnerships, bonus content, and the newsletter archive
+-   Goal for three months from now: Find more consistent channels. Explore referrals, affiliates, cross-promotion, and more to lock down what works for acquiring users.
+-   Goal for one year from now: Establish processes for automating parts of the business. Explore ways for me to reduce the time it takes to write the newsletter, but not lose the value.
 
 Thanks to all who kept up with this thread (and the megamaker one) over this month! It's been fun to share this experience with you all!
 
@@ -437,11 +438,11 @@ Working only on development actually felt like a fun way to spend the weekend, s
 
 Of course, it means that today I have a backlog of things to do. Here are my goals:
 
-- Switch my daily updates to my blog (if you're reading this, it's already done!)
-- Let my friends on MegaMaker know
-- Edit Issue #8
-- Write Idea #1 for Issue #9
-- (Stretch) Add Stripe integration into the membership site, to only allow people to register if they have an active subscription
+-   Switch my daily updates to my blog (if you're reading this, it's already done!)
+-   Let my friends on MegaMaker know
+-   Edit Issue #8
+-   Write Idea #1 for Issue #9
+-   (Stretch) Add Stripe integration into the membership site, to only allow people to register if they have an active subscription
 
 Like I've mentioned before, Monday is my big day for getting ahead, but that being said even this is probably beyond my reach. It's 7:00 AM now and I need to edit by 8:30. Normally that wouldn't be too hard, but I've been thinking more about the free newsletter.
 
@@ -465,9 +466,9 @@ I have an extremely aggresive revenue goal of getting to \$3,000 by the end of A
 
 Yesterday, I was able to accomplish all of the goals I had set out for myself, which is great. The membership site now checks your membership status when you try to create an account! Here's what's left:
 
-- Check membership status when signing in (a repeat of the logic I already wrote, just in another place)
-- Add the Stripe Customer Portal to allow people to cancel subscriptions / create subscriptions
-- Make the UI all pretty
+-   Check membership status when signing in (a repeat of the logic I already wrote, just in another place)
+-   Add the Stripe Customer Portal to allow people to cancel subscriptions / create subscriptions
+-   Make the UI all pretty
 
 I'm feeling reasonably confident that I can get this done by my self-imposed deadline by the 17th. The scariest part was the authentication, and that's now taken care of.
 
@@ -509,9 +510,9 @@ Yesterday, I had a great call with Dru Riley of Trends. We talked about the news
 
 My goals for today are as follows:
 
-- Post the IH milestone, share it around some communities
-- Finish Idea #3 and edit #1 and #2
-- (Stretch) start writing the free newsletter
+-   Post the IH milestone, share it around some communities
+-   Finish Idea #3 and edit #1 and #2
+-   (Stretch) start writing the free newsletter
 
 ##### KPI
 
@@ -543,10 +544,10 @@ Yesterday I posted the \$2,000 MRR milestone to IndieHackers. That usually leads
 
 My goals for today are:
 
-- Edit Issue #9
-- Write Issue #9 preview using new format
-- (Stretch) Work on membership site to store and use membership status on login
-- Meeting with analytics expert on how I could be better tracking my analytics
+-   Edit Issue #9
+-   Write Issue #9 preview using new format
+-   (Stretch) Work on membership site to store and use membership status on login
+-   Meeting with analytics expert on how I could be better tracking my analytics
 
 I'm pretty excited about that meeting, and I'm hoping I'll have some free time today to work on the memberhsip site. It's still up in the air though.
 
@@ -590,8 +591,8 @@ All that's left is to make the site functional and pretty, which I'll have to do
 
 Goals for today:
 
-- Write Idea #1 and #2 for SoftwareIdeas newsletter Issue #10
-- (Stretch) Get newsletter archive functional on membership site (use Mailchimp API to get the relevant emails)
+-   Write Idea #1 and #2 for SoftwareIdeas newsletter Issue #10
+-   (Stretch) Get newsletter archive functional on membership site (use Mailchimp API to get the relevant emails)
 
 #### August 12th
 
@@ -599,8 +600,8 @@ Goals for today:
 
 Conversion rate increased again, but I'm still a while away from my goal. Here are my goals for today:
 
-- Write Idea #3 for Issue #10
-- Finish the "The Foundation" and "Software Discount" sections of the website, both visually and functunally.
+-   Write Idea #3 for Issue #10
+-   Finish the "The Foundation" and "Software Discount" sections of the website, both visually and functunally.
 
 #### August 13th
 
@@ -610,8 +611,8 @@ Completed all of yesterday's goals, which is great. The membership site just nee
 
 Today's goals are pretty simple:
 
-- Edit Issue #10
-- Send emails to partners, getting the information I need
+-   Edit Issue #10
+-   Send emails to partners, getting the information I need
 
 I actually took last afternoon off, I was feeling a little tired and stressed from work. I'm happy to be building a company that allows me to take any given day off, it's definitely one of the perks.
 
@@ -619,10 +620,10 @@ I actually took last afternoon off, I was feeling a little tired and stressed fr
 
 It's been about a week since I finally fixed my analytics to allow me to track conversion rates by channel. Before I didn't have any metrics around this, which was really bad. Now I finally have some idea:
 
-- A whopping 43% of sales are coming from people after they sign up for the free issue, directly from my email list
-- In total, 72% of sales this week have come from my email list in some form or another
-- 16% of sales have come from IndieHackers
-- Twitter didn't make the list, but I don't have insight into how many people are subscribing from twitter
+-   A whopping 43% of sales are coming from people after they sign up for the free issue, directly from my email list
+-   In total, 72% of sales this week have come from my email list in some form or another
+-   16% of sales have come from IndieHackers
+-   Twitter didn't make the list, but I don't have insight into how many people are subscribing from twitter
 
 So, based on this I have some items I want to track:
 
@@ -640,11 +641,11 @@ Alright, hopefully I'll have finished all three of these for tomorrow.
 
 I've been slacking on these daily updates. I can't believe it's almost been a week since I wrote one. Here's a quick recap:
 
-- The membership site has launched to seemingly positive responses, and Blake has reached out and told me that he's already seen the partnership sale go through, which is great.
+-   The membership site has launched to seemingly positive responses, and Blake has reached out and told me that he's already seen the partnership sale go through, which is great.
 
-- We've hit two impressive milestones: $3k MRR and $10k in sales (more on that in a moment).
+-   We've hit two impressive milestones: $3k MRR and $10k in sales (more on that in a moment).
 
-- Conversion rate has continued to climb, from our original 6.07% now up to 8.19%.
+-   Conversion rate has continued to climb, from our original 6.07% now up to 8.19%.
 
 All of these are awesome, and I've posted an [IH milestone](https://www.indiehackers.com/product/softwareideas-io/hit-3k-mrr--MFAVP6ZoUvIzwxTXEro) today to talk about it, but here I want to talk about the \$10k number.
 
@@ -660,11 +661,11 @@ I'm a pretty risk-adverse guy, so I won't be quitting my job anytime soon. But s
 
 Back to earth here, my goals for today are:
 
-- Edit Issue #11
-- Write teaser issue
-- Watch The Foundation video and decide if I need to redo it
-- Edit the Landen copy to mention the membership site
-- Edit copy on the /sign-up page so it's usable
+-   Edit Issue #11
+-   Write teaser issue
+-   Watch The Foundation video and decide if I need to redo it
+-   Edit the Landen copy to mention the membership site
+-   Edit copy on the /sign-up page so it's usable
 
 #### August 31st
 
@@ -704,8 +705,87 @@ I also finally got metrics working - I now can see where people are coming from 
 
 Here are the channels I will be testing throughout the month:
 
-- Sponsoring newsletters - starting with the IndieLetters newsletter
-- Affiliate programs
-- Content marketing - Not necessarily SEO, but creating valuable free content to help drive leads
+-   Sponsoring newsletters - starting with the IndieLetters newsletter
+-   Affiliate programs
+-   Content marketing - Not necessarily SEO, but creating valuable free content to help drive leads
 
 I think these three are good to start. I'll be writing up a more detailed plan of how I want to go about testing these channels shortly!
+
+#### September 9th
+
+**$4,219 MRR, $13,395 in sales, 8.85% Conversion Rate (goal is 12.15%)**
+
+Hit the $4,000 MRR mark since my last post! It's a very exciting milestone because it's so close to $5k, which would mark the halfway point to my "alive" goal of \$10k.
+
+Yes, I'm aware that I fit every founder troupe of not being present with my success, and only looking forward. It's in my nature!
+
+There's a lot to write about today, and I think I'll break it up into two parts. First, I want to talk about my strategy for exploring marketing channels during the month. Second, I want to discuss the possibility of working with a writer for part of the newsletter, to save me significant time on the newsletter.
+
+##### Channel Investigation
+
+This month, my goal is to find one channel that's reliable. Ideally, that channel will not require a lot of time. I'd rather spend money than time here, since my other channels are already time-intensive.
+
+Below I'll list out each channel I'm exploring, and how I'm going to be testing them.
+
+1. Twitter
+
+While I'm already getting decent results from Twitter, I want to dive a bit deeper. I'll be following [Daniel Vassallo's advice](https://twitter.com/dvassallo/status/1236067288647733249) for this, and spending 30 minutes a day on Twitter.
+
+Now that I have metrics on which channel brings people to the newsletter (and I'm assuming for now that all free newsletter subscriptions are created equal - probably a folly), I'll finally be able to quantify how accurate Twitter is being.
+
+2. Newsletter Sponsorship
+
+I've seen relatively good results from cross-promotion, nothing crazy but it's easy enough effort that it seems worthwhile. But what I'm talking about here is actually paying for a premium slot on a free newsletter. I'm starting with Falak Sher's IndieLetters newsletter, which has about 1300 subscribers, and I'll be keeping an eye out for other opportunities. It'll be a good experiment to see how well this sponsorship goes, I would expect it to go a bit or slightly better than a free cross-promotion (since the slot will be bigger and more obvious).
+
+3. Referral Program
+
+Something I didn't mention in the last post, but I've decided to dive into is a referral program. I need to do some research to figure out how this will work with the Landen landing page (which, at this point, has been a consistent bottleneck in integrating useful products), but hopefully it is easy to implement.
+
+If so, I'll be setting up some software to give every reader a referral link. At 220 subscribers now, I figure that there are enough people that it may work well. I've already seen first-hand that referrals tend to lead to easier sales, so I'm hoping that this one has potential, but I'm not holding my breath on it.
+
+4. Affiliate Program
+
+I got some advice from Justin on how to go about finding high-quality affiliates, and I'll take some time following a similar method to what he did. He saw such great results from affiliates, so I'm hopeful that I can find a way to make this work.
+
+I am worried about getting the wrong affiliates though, because it would be easy to come across as a scammy product in my industry. So I'm taking this one with caution.
+
+5?. Podcast Sponsorship
+
+Last but not least, I'm not sure if I'll get to this one, but I think sponsoring some founder podcasts might be a great opportunity. I'm not really sure how to get started with this one, so I'll wait until I play with the other ones and then see if I want to explore this one. But I also feel this one has lots of potential.
+
+##### Outsourcing Company Analysis
+
+One big question with the newsletter is how I can optimize the writing process. It's very important to me that the quality does not drop **at all**, which has made me hesitate when thinking about this before. But the reality is, this newsletter eventually needs to be systematized in some way, even if it can never be fully systematized.
+
+This is coming from the past two weeks, where I've been struggling to finish the newsletter on time, due to things popping up in my personal life. It's forced me to look at the lowest-hanging fruit for delegation, and I think I've found an area where I _may_ be able to outsource to a high-quality writer.
+
+For those who don't know, the format of the newsletter looks like this:
+
+-   Quote from customer of Company XYZ
+-   Company XYZ metrics
+-   Summary of company XYZ
+-   Market background of company XYZ (and insights into general market)
+-   Competition analysis of 2-3 companies in the market of Company XYZ
+-   Downmarket opportunity
+-   Pain points (of customers)
+-   Solution (how the downmarket opportunity solves the issue)
+-   MVP
+-   Risks
+
+The trouble with outsourcing any of this work is that it takes some level of founder intuition to identify downmarket opportunities. I don't know if I'll ever be able to outsource that in a way that I'd be comfortable with. Also, I think that I have a unique way of thinking about MVP/Risks, and that seems near impossible to delegate as well.
+
+I also can't outsource the finding of Company XYZ, since that requires the intuition on downmarket opportunities I mentioned above.
+
+This is where I was stuck for a long time when I thought about this. I can't outsource the beginning, and I can't outsource the end, so what do I do?
+
+Yep, you're smarter than me, and you probably realize. The middle is easily outsourced!
+
+I'm going to do some tests with some analytical, research-minded writers, and give them the company. I'll provide them "Company XYZ", the sources for the metrics I want them to obtain, and it will be on them to write from the first step above, down to the competition analysis.
+
+I'm confident that this part could be outsourced without a significant drop in quality, assuming that I find someone very talented at research and analytical thinking.
+
+This way, I'll only be responsible for the actual insight section - the downmarket opportunity through to the risks. That will reduce the time it takes me to write each newsletter from around 20 hours to about 10! That frees up a significant amount of time to work on The Foundation and other important projects I've been waiting to implement.
+
+This seems useful enough that I'm prioritizing it ASAP. I'll be writing up some job descriptions and doing some initial tests with some writiers. If you're reading this and this opportunity speaks to you, I'd love to have you reach out at kevin@softwareideas.io. I think the ideal fit is an analytical founder looking for about 5-10 hours per week of work, so I'd rather hire from friends. I'd love to hear from you!
+
+That's my update for today!
