@@ -30,9 +30,11 @@ published: true
         3. [August 6th](#august-6th)
         4. [August 20th](#august-20th)
 
-    3. [September (\$3,706 MRR -> ?)](#september)
+    3. [September (\$3,706 MRR -> \$5,544 MRR)](#september)
         1. [September 4th](#september-4th)
         2. [September 9th](#september-9th)
+    4. [October (\$5,544 MRR -> ?)](#october)
+        1. [October 5th](#october-5th)
 
 ## What's this about?
 
@@ -789,3 +791,33 @@ This way, I'll only be responsible for the actual insight section - the downmark
 This seems useful enough that I'm prioritizing it ASAP. I'll be writing up some job descriptions and doing some initial tests with some writiers. If you're reading this and this opportunity speaks to you, I'd love to have you reach out at kevin@softwareideas.io. I think the ideal fit is an analytical founder looking for about 5-10 hours per week of work, so I'd rather hire from friends. I'd love to hear from you!
 
 That's my update for today!
+
+### October
+
+#### October 5th
+
+**$5,867 MRR, $18,403 in sales, 9.88% Conversion Rate (goal is 12.15%)**
+
+Hey there! Been a while.
+
+Sorry for the break, I'm looking to start these up again. I'll try to give the high-level overview:
+
+-   Hired a writer to help with the "middle part" of the newsletter - I'm still doing the idea creation and writing about the downmarket opportunities, but I've delegated some of the background research and competitor research to a writer - he's a SaaS/Marketing/eCommerce guy who's a perfect fit!
+
+-   Have found more success with Twitter than I have in the past, and have been doubling down on it. Still waiting for some more consistent results, but it seems that it may be a reliable channel #2.
+
+-   Explored cross-promotion and newsletter sponsorships as potential channels - both look like a bust for now.
+
+-   Software Ideas hit $5k MRR! Actually as of today, we're much closer to $6k MRR.
+
+The next ten days are going to be a big deal for Software Ideas. On October 7th, the first customers are up for renewal. So far, churn is a low 1.1%, but it'll be interesting to see what happens. If it's below 10%, it'll be christmas morning for me. If it's below 5%, I won't believe my eyes.
+
+For now, I'm focusing very hard on three aspects of the business:
+
+1. Product - Creating The Foundation course. I truly think my course has the potential to be unique in the way it helps people learn to do idea validation. I want it to be out there so that people can stop making products no one wants. It's soul-sucking for founders when they put all of that time and effort, and have nothing to show for it.
+
+2. Marketing - Finding my top three channels. I'm exploring a combination of SEO/PPC/Content Marketing, as well as doing podcast interviews, and doubling down on IH and twitter.
+
+3. Automation - I've been incredibly happy with my writer, he does as good a job as I do on the research-heavy sections I've given him. The next step is to have the writer work directly in Mailchimp, which will save me time copying/pasting over the work. I'm also focused on creating an idea backlog for him, which will allow him to work at his leisure instead of being forced into my schedule.
+
+My long-term goal is to get at least one month ahead, so hopefully these steps will help!
