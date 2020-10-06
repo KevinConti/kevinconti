@@ -821,3 +821,22 @@ For now, I'm focusing very hard on three aspects of the business:
 3. Automation - I've been incredibly happy with my writer, he does as good a job as I do on the research-heavy sections I've given him. The next step is to have the writer work directly in Mailchimp, which will save me time copying/pasting over the work. I'm also focused on creating an idea backlog for him, which will allow him to work at his leisure instead of being forced into my schedule.
 
 My long-term goal is to get at least one month ahead, so hopefully these steps will help!
+
+#### October 6th
+
+**$5,924 MRR, $18,574 in sales, 9.95% Conversion Rate (goal is 12.15%)**
+
+So close to that 10% conversion rate! I can't wait to hit that metric.
+
+Yesterday, I was able to get a ton done, maybe the most I've ever gotten done in a single day. I was finally able to get done all of the marketing tasks I had assigned myself that day, thanks to the fact that I only had to do half as much writing, since my contractor now tasks care of some of the more laborious parts. Since I've hired him, I only do the research for what market we are going to focus on, the downmarket idea, MVP, and risks. It's been great to offload some of the work while still retaining creative control over the ideas we release.
+
+I also announced two big partnerships yesterday - Secret and Firstbase.io. These two companies are offering 15-30 percent off for members of Software Ideas, which amounts to a ton of savings for readers! Secret alone can theoretically save a reader tens of thousands of dollars.
+
+Today, I'm going to accomplish the following:
+
+-   Write opportunity #2 for this week's newsletter
+-   Build the idea backlog to six ideas
+-   Purchase a green screen for The Foundation course
+-   (Stretch) Write opportunity #3 for this week's newsletter.
+
+Tomorrow marks the three month anniversary of Software Ideas, so I'm excited to do a little metric review then!
