@@ -843,10 +843,14 @@ Tomorrow marks the three month anniversary of Software Ideas, so I'm excited to 
 
 #### October 8th
 
-💰 MRR: $6,090
-💵 Revenue: $19,357
+💰 MRR: \$6,090
+
+💵 Revenue: \$19,357
+
 😊 Customer Count: 324
+
 💔 Renewed-Churn ratio: 3-0 (0% churn!)
+
 📝 Free Email List: 3,283
 
 Yesterday was a big day for Software Ideas! First of all, I made a post that was #1 on Indie Hackers for most of the day - [How I grew Software Ideas to \$6k MRR in three months](https://www.indiehackers.com/post/how-i-grew-software-ideas-to-6k-mrr-in-three-months-4b6598f378). In it, I laid out a few key takeaways from my experience so far:
@@ -859,7 +863,7 @@ If you want to see the full context for these lessons, check out the blog post!
 
 That post received about 2,000 views, led to roughly 80 free signups, and 8 new customers. Not bad!
 
-Secondly, yesterday was a big day because it was the three month anniversary of Software Ideas. That means that the first customers were elligible to renew their subscription.
+Secondly, yesterday was a big day because it was the three month anniversary of Software Ideas. That means that the first customers were eligible to renew their subscription.
 
 Churn has been an ongoing question for Software Ideas. How many people will want to renew an ideas newsletter after their first three months? How many people will leave? As you may know, keeping churn below 10% - and ideally below 5% - is key for a subscription business. Anything above that and it's a problem that needs to be solved.
 
