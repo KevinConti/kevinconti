@@ -35,6 +35,7 @@ published: true
         2. [September 9th](#september-9th)
     4. [October (\$5,544 MRR -> ?)](#october)
         1. [October 5th](#october-5th)
+        2. [October 8th](#october-8th)
 
 ## What's this about?
 
