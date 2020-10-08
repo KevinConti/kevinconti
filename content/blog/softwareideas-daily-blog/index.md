@@ -840,3 +840,37 @@ Today, I'm going to accomplish the following:
 -   (Stretch) Write opportunity #3 for this week's newsletter.
 
 Tomorrow marks the three month anniversary of Software Ideas, so I'm excited to do a little metric review then!
+
+#### October 8th
+
+💰 MRR: $6,090
+💵 Revenue: $19,357
+😊 Customer Count: 324
+💔 Renewed-Churn ratio: 3-0 (0% churn!)
+📝 Free Email List: 3,283
+
+Yesterday was a big day for Software Ideas! First of all, I made a post that was #1 on Indie Hackers for most of the day - [How I grew Software Ideas to \$6k MRR in three months](https://www.indiehackers.com/post/how-i-grew-software-ideas-to-6k-mrr-in-three-months-4b6598f378). In it, I laid out a few key takeaways from my experience so far:
+
+-   When looking for qualified leads, you need to give value first, and offer a reason for people to engage with YOU, not the other way around!
+-   Setting a specific goal ahead of time is key for pre-sales, so you know that you're not cheating yourself. It's too easy to lower your price or the number of sales and trick yourself that you succeeded when you didn't.
+-   By front-loading all the risky parts of the business by pre-selling and validating channels, growth comes as a natural side-effect!
+
+If you want to see the full context for these lessons, check out the blog post!
+
+That post received about 2,000 views, led to roughly 80 free signups, and 8 new customers. Not bad!
+
+Secondly, yesterday was a big day because it was the three month anniversary of Software Ideas. That means that the first customers were elligible to renew their subscription.
+
+Churn has been an ongoing question for Software Ideas. How many people will want to renew an ideas newsletter after their first three months? How many people will leave? As you may know, keeping churn below 10% - and ideally below 5% - is key for a subscription business. Anything above that and it's a problem that needs to be solved.
+
+So, how did the first day go? Out of four people, 3 renewed, and 1 card was declined. I'm keeping the declined card as a 'maybe' for now, so I'll call it a success so far!
+
+This is a new KPI for Software Ideas, so I'll be keeping track of it manually for the next couple weeks, until I see a trend. Today there are another four people who are up for renewal, so we'll see what happens!
+
+Last but not least, today a new issue goes out, which is usually correlated with a few new sales. So I'm hoping for a good day!
+
+##### On ups and downs
+
+I've given up on being emotionless through ups and downs. I think it's just the reality of being a founder that you have to face these things. So on days like yesterday, where everything just seemed to go perfectly, I'm actually encouraging myself to get excited. I want the highs to be real high, because I know that otherwise the inevitable lows will drag me down.
+
+I know this isn't the typical advice on how to deal with ups and downs. Most founders try to temper their emotions in _both_ directions. But that hasn't worked for me. What is working for me is to be okay when I'm upset for the day because the business is having an issue, and to be okay to be over-excited when it's doing well.
