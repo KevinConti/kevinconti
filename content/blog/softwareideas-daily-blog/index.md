@@ -879,3 +879,29 @@ Last but not least, today a new issue goes out, which is usually correlated with
 I've given up on being emotionless through ups and downs. I think it's just the reality of being a founder that you have to face these things. So on days like yesterday, where everything just seemed to go perfectly, I'm actually encouraging myself to get excited. I want the highs to be real high, because I know that otherwise the inevitable lows will drag me down.
 
 I know this isn't the typical advice on how to deal with ups and downs. Most founders try to temper their emotions in _both_ directions. But that hasn't worked for me. What is working for me is to be okay when I'm upset for the day because the business is having an issue, and to be okay to be over-excited when it's doing well.
+
+#### October 20th
+
+💰 MRR: \$7,378
+
+💵 Revenue: \$25,128
+
+😊 Customer Count: 390
+
+💔 Churn percentage: 3.4% monthly
+
+📝 Free Email List: 4,025
+
+Had some family/friends in town this week, so I didn't get around to writing these updates as much as I would have liked. Overall, there's been some good news, some cool milestones, and some more neutral or negative news.
+
+First, with the good stuff! Software Ideas has hit \$7,000 MRR, and done over 1/4 of six figures in revenue! It looks extremely likely that the business will do six figures in its first year, which is amazing.
+
+Also, being so close to 400 customers makes me want to start the referral program even more. Really excited for the new website to be done so we can implement that.
+
+The not-so-good news is that customer churn has significantly increased since renewals started coming in. Now, 3.4% is "good", I would be ecstatic if it stayed around here, but this number is very likely to continue to increase over the next three months. Depending on where it lands, here is my plan:
+
+1-5%: Throw a party, because that's unbelievable!
+5-10%: Keep the current plan, no major changes because of churn
+\> 10%: Prioritize creating the community above releasing [The Foundation](https://softwareideas.io/the-foundation) course.
+
+Based on how it's growing , the 10% number is looking more and more likely. But we'll have to wait and see!
