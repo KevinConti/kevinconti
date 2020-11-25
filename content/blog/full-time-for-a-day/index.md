@@ -23,3 +23,9 @@ I'll keep this updated as the day goes on!
 Today, I woke up naturally around 9 AM, much later than my usual 5-6 AM. I'm feeling rested and refreshed, I even had time to make myself breakfast, pick up some packages from the apartment's delivery room, and have some coffee before diving into work!
 
 I really enjoy having a leisurely start to the day, but it's something I just can't have when I need to get stuff done before my day-job begins at 9 AM. I'm already enjoying today immensely!
+
+### 12:01 PM
+
+I've spent the past two hours catching up on EVERYTHING. Twitter DMs, Indie Hackers posts, emails, you name it. I've finally caught up with everyone who's reached out to me, which feels great!
+
+Next up, to finish off this week's issue of Software Ideas!
