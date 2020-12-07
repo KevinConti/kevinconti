@@ -33,9 +33,13 @@ published: true
     3. [September (\$3,706 MRR -> \$5,544 MRR)](#september)
         1. [September 4th](#september-4th)
         2. [September 9th](#september-9th)
-    4. [October (\$5,544 MRR -> ?)](#october)
+    4. [October (\$5,544 MRR -> $8,104)](#october)
         1. [October 5th](#october-5th)
         2. [October 8th](#october-8th)
+    5. [November ($8,161 MRR -> $11,132)](#november)
+        1. [Whoops!](#november)
+    6. [December ($11,151 -> ?)](#december)
+        1. [December 7th](#december-7th)
 
 ## What's this about?
 
@@ -46,10 +50,6 @@ The SoftwareIdeas.io daily blog is home to my daily stand-up of the project. Eac
 If you're interested in seeing the unfiltered behind-the-scenes of how SoftwareIdeas.io came about, you'll be able to find it here. It starts from the day I joined a group where everyone in the group was planning on launching a new product within the month.
 
 I wanted to join, even though the month before (June 2020) I had acquired pre-sales for my product, at the time just called the "Downstream SaaS Newsletter". I hadn't launched it publicly yet, so it was a good fit. In these daily updates, you'll see the product go from $0 MRR and skyrocket to over $1,500 by the end of the first month. The specifics of how I did it are all included in the updates.
-
-## Hey, you're missing some posts...
-
-Sorry about that. I'm working on getting them moved over. Expect this in the next couple days.
 
 #### Now, onto the post!
 
@@ -905,3 +905,49 @@ The not-so-good news is that customer churn has significantly increased since re
 \> 10%: Prioritize creating the community above releasing [The Foundation](https://softwareideas.io/the-foundation) course.
 
 Based on how it's growing , the 10% number is looking more and more likely. But we'll have to wait and see!
+
+### November
+
+Can you believe that I missed all of November for this post?!? November was a huge month, and I struggled with being able to manage this blog at the same time as working on the project and working a full-time job. More on this in the next post.
+
+### December
+
+#### December 7th
+
+Hello! It's been a while.
+
+Let's start with some numbers:
+
+💰 MRR: \$11,246
+
+💵 Revenue: \$46,339
+
+😊 Customer Count: 615
+
+💔 Churn percentage: 8.8% monthly
+
+As you can see, things went pretty crazy in November! Here's the highlight reel:
+
+A Black Friday sale of 20% off (for life) brought in over $2,000 MRR in just a few days, skyrocketing Software Ideas into the five-figure club within its five month birthday, which happens to be today. The response blew me away, and thanks to that sale I've finally accomplished my biggest goal - $10k in MRR.
+
+Of course, the pessimist in me is waiting for the other shoe to drop. I'm pretty scared to see the renewal rates on these purchases - will these customers renew because they want to keep their lifetime discount, or are they going to churn at an even higher rate than the regular customer base?
+
+Additonally, in November I failed to release a SINGLE episode of [The Foundation](https://softwareideas.io/the-foundation) like I intended to. I struggled with balancing the need for the constant content of the newsletter with my own need for a mental break, and The Foundation was the ball that got dropped. I'm hopeful that today I will finally be re-recording the first episode, and aiming to release that later this week. 
+
+Last but not least - KPIs. One of the few that I was tracking in the early days was the % of email list subscribers who have become paid subscribers. Originally, I was at 6.07%. My goal was 12.15%.
+
+As of today, Software Ideas has a conversion rate of 11.44%! Very close to the goal I set for myself four months ago. Very cool!
+
+My second KPI is monthly churn %. Here's a snippet from an earlier blog post:
+
+> The not-so-good news is that customer churn has significantly increased since renewals started coming in. Now, 3.4% is “good”, I would be ecstatic if it stayed around here, but this number is very likely to continue to increase over the next three months. Depending on where it lands, here is my plan:
+>
+> **1-5%**: Throw a party, because that’s unbelievable! 
+>
+> **5-10%**: Keep the current plan, no major changes because of churn 
+>
+> **10%**: Prioritize creating the community above releasing The Foundation course.
+
+Sitting here at 8.8%, I'm right on the border between the second and third option. This is definitely the biggest opportunity for Software Ideas right now. As such, my goal is to reduce churn to 5%. I plan to focus on this after The Foundation is fully released, as it's the next-most important aspect of the business.
+
+There's a lot more that I want to write about, especially about some channels and opportunities that are coming up in the near future, but for now I'll leave it at that! I am hoping that I will be a lot more active on this blog from now on!
