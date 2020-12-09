@@ -951,3 +951,25 @@ My second KPI is monthly churn %. Here's a snippet from an earlier blog post:
 Sitting here at 8.8%, I'm right on the border between the second and third option. This is definitely the biggest opportunity for Software Ideas right now. As such, my goal is to reduce churn to 5%. I plan to focus on this after The Foundation is fully released, as it's the next-most important aspect of the business.
 
 There's a lot more that I want to write about, especially about some channels and opportunities that are coming up in the near future, but for now I'll leave it at that! I am hoping that I will be a lot more active on this blog from now on!
+
+#### December 9th
+
+💰 MRR: \$11,246
+
+💵 Revenue: \$46,738
+
+😊 Customer Count: 615
+
+💔 Churn percentage: 9.2% monthly
+
+A couple of slow days on the sales front, where churn has equaled out with new subscriptions. To be honest, it does give me anxiety when the business has days like this.
+
+Here's my list of goals for today:
+
+1. Finish this week's newsletter issue
+
+2. Integrate [Baremetrics Recover](https://baremetrics.com/features/recover) to help with failed payments and dunning, and [Baremetrics Cancellation Insights](https://baremetrics.com/features/cancellation-insights) to get a better understanding of the main reasons people churn
+
+3. Bonus: Record an episode of The Foundation
+
+Doesn't sound like a lot, but there's a TON of work hidden in #1 and #3. Wish me luck!
